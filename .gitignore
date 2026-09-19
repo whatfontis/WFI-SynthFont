@@ -1,0 +1,5 @@
+# images come from the release zips, crops from tools/make_crops.py
+scenes/
+crops/
+*.zip
+__pycache__/

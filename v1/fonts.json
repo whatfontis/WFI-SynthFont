@@ -1,0 +1,6038 @@
+[
+ {
+  "title": "Asap 600",
+  "family": "Asap",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Asap-600",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Asap-600.font",
+  "images": 20
+ },
+ {
+  "title": "Inter 500",
+  "family": "Inter",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Inter-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Inter-500.font",
+  "images": 20
+ },
+ {
+  "title": "Open Sans 500",
+  "family": "Open Sans",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Open-Sans-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Open-Sans-500.font",
+  "images": 20
+ },
+ {
+  "title": "Poppins 500",
+  "family": "Poppins",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Poppins-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Poppins-500.font",
+  "images": 20
+ },
+ {
+  "title": "Ubuntu 500",
+  "family": "Ubuntu",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Ubuntu-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Ubuntu-500.font",
+  "images": 20
+ },
+ {
+  "title": "Reem Kufi regular",
+  "family": "Reem Kufi",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Reem-Kufi-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Reem-Kufi-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Playfair Display 500",
+  "family": "Playfair Display",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Playfair-Display-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Playfair-Display-500.font",
+  "images": 20
+ },
+ {
+  "title": "Libre Baskerville regular",
+  "family": "Libre Baskerville",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Libre-Baskerville-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Libre-Baskerville-regular.font",
+  "images": 20
+ },
+ {
+  "title": "DM Serif Text regular",
+  "family": "DM Serif Text",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_DM-Serif-Text-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_DM-Serif-Text-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Alice regular",
+  "family": "Alice",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Alice-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Alice-regular.font",
+  "images": 20
+ },
+ {
+  "title": "STIX Two Text 500",
+  "family": "STIX Two Text",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_STIX-Two-Text-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_STIX-Two-Text-500.font",
+  "images": 20
+ },
+ {
+  "title": "Arvo regular",
+  "family": "Arvo",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Arvo-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Arvo-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Zilla Slab 500",
+  "family": "Zilla Slab",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Zilla-Slab-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Zilla-Slab-500.font",
+  "images": 20
+ },
+ {
+  "title": "DM Mono 500",
+  "family": "DM Mono",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_DM-Mono-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_DM-Mono-500.font",
+  "images": 20
+ },
+ {
+  "title": "JetBrains Mono 500",
+  "family": "JetBrains Mono",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_JetBrains-Mono-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_JetBrains-Mono-500.font",
+  "images": 20
+ },
+ {
+  "title": "Calibri Regular",
+  "family": "Calibri",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Calibri-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Calibri-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Century Gothic Pro Regular",
+  "family": "Century Gothic",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Century-Gothic-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Century-Gothic-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Atten Round New Medium",
+  "family": "Atten Round New",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Atten-Round-New-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Atten-Round-New-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Lato Medium",
+  "family": "Lato",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Lato-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Lato-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "DIN Condensed Regular",
+  "family": "DIN Condensed",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_DIN-Condensed-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_DIN-Condensed-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Myriad Hebrew Regular",
+  "family": "Myriad Hebrew",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Myriad-Hebrew-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Myriad-Hebrew-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Minion 3 Medium",
+  "family": "Minion 3",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Minion-3-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Minion-3-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Adobe Garamond Pro Regular",
+  "family": "Adobe Garamond",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Adobe-Garamond-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Adobe-Garamond-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "IvyPresto Text Regular",
+  "family": "IvyPresto Text",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_IvyPresto-Text-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_IvyPresto-Text-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "MinervaModern Regular",
+  "family": "MinervaModern",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_MinervaModern-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_MinervaModern-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "IvyMode Regular",
+  "family": "IvyMode",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_IvyMode-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_IvyMode-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Rockwell Std Regular",
+  "family": "Rockwell",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Rockwell-Std-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Rockwell-Std-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Museo Slab 500",
+  "family": "Museo Slab",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Museo-Slab-500",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Museo-Slab-500.font",
+  "images": 20
+ },
+ {
+  "title": "Courier Prime Regular",
+  "family": "Courier Prime",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Courier-Prime-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Courier-Prime-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "OCR B Std Regular",
+  "family": "OCR B",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_OCR-B-Std-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_OCR-B-Std-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "RenogareSoft-Regular",
+  "family": "RenogareSoft",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_RenogareSoft-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_RenogareSoft-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Billysans",
+  "family": "Billysans",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Billysans",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Billysans.font",
+  "images": 20
+ },
+ {
+  "title": "Montauk",
+  "family": "Montauk",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Montauk",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Montauk.font",
+  "images": 20
+ },
+ {
+  "title": "Harvely",
+  "family": "Harvely",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Harvely",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Harvely.font",
+  "images": 20
+ },
+ {
+  "title": "Marcana Regular",
+  "family": "Marcana",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Marcana-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Marcana-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Agatho",
+  "family": "Agatho",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Agatho",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Agatho.font",
+  "images": 20
+ },
+ {
+  "title": "Fashion Regular",
+  "family": "Fashion",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Fashion-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Fashion-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Happynicth Regular",
+  "family": "Happynicth",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Happynicth-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Happynicth-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Kulachat Slab Regular",
+  "family": "Kulachat Slab",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_Kulachat-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Kulachat-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Olivetti Valentine",
+  "family": "Olivetti Valentine",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_Olivetti-Valentine",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Olivetti-Valentine.font",
+  "images": 20
+ },
+ {
+  "title": "Creato Display",
+  "family": "Creato Display",
+  "source": "DaFont",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "license_source": "archive",
+  "license_evidence": [
+   "OFL"
+  ],
+  "dafont_page": "https://www.dafont.com/creato-display.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "Louis George Caf",
+  "family": "Louis George Caf",
+  "source": "DaFont",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "license_source": "archive",
+  "license_evidence": [
+   "100% FREE"
+  ],
+  "dafont_page": "https://www.dafont.com/louis-george-cafe.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "Peace Sans",
+  "family": "Peace Sans",
+  "source": "DaFont",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "license_source": "archive",
+  "license_evidence": [
+   "OFL"
+  ],
+  "dafont_page": "https://www.dafont.com/peace-sans.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "Tango Sans",
+  "family": "Tango Sans",
+  "source": "DaFont",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "license_source": "archive",
+  "license_evidence": [
+   "100% FREE"
+  ],
+  "dafont_page": "https://www.dafont.com/tangosans.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "Linux Libertine",
+  "family": "Linux Libertine",
+  "source": "DaFont",
+  "category": "Serif",
+  "caps_only": false,
+  "license_source": "archive",
+  "license_evidence": [
+   "OFL",
+   "GPL",
+   "public domain"
+  ],
+  "dafont_page": "https://www.dafont.com/linux-libertine.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "Averia Serif",
+  "family": "Averia Serif",
+  "source": "DaFont",
+  "category": "Serif",
+  "caps_only": false,
+  "license_source": "archive",
+  "license_evidence": [
+   "OFL",
+   "public domain"
+  ],
+  "dafont_page": "https://www.dafont.com/averia-serif.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "ZT Bros Oskon 90s",
+  "family": "ZT Bros Oskon 90s",
+  "source": "DaFont",
+  "category": "Serif",
+  "caps_only": false,
+  "license_source": "dafont author note",
+  "license_evidence": [
+   "free for commercial"
+  ],
+  "dafont_page": "https://www.dafont.com/zt-bros-oskon-90s.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "Sono",
+  "family": "Sono",
+  "source": "DaFont",
+  "category": "Monospaced",
+  "caps_only": false,
+  "license_source": "archive",
+  "license_evidence": [
+   "OFL"
+  ],
+  "dafont_page": "https://www.dafont.com/sono.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "NK57 Monospace",
+  "family": "NK57 Monospace",
+  "source": "DaFont",
+  "category": "Monospaced",
+  "caps_only": false,
+  "license_source": "dafont author note",
+  "license_evidence": [
+   "public domain"
+  ],
+  "dafont_page": "https://www.dafont.com/nk57-monospace.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "Arbutus Slab regular",
+  "family": "Arbutus Slab",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Arbutus-Slab-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Arbutus-Slab-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sanchez regular",
+  "family": "Sanchez",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Sanchez-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Sanchez-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Inconsolata 500",
+  "family": "Inconsolata",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Inconsolata-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Inconsolata-500.font",
+  "images": 20
+ },
+ {
+  "title": "American Typewriter ITC Pro Condensed",
+  "family": "American Typewriter ITC Pro Condensed",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_American-Typewriter-ITC-Pro-Condensed",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_American-Typewriter-ITC-Pro-Condensed.font",
+  "images": 20
+ },
+ {
+  "title": "Vista Slab OTCE Reg",
+  "family": "Vista Slab OTCE",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Vista-Slab-OTCE-Reg",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Vista-Slab-OTCE-Reg.font",
+  "images": 20
+ },
+ {
+  "title": "OCR A Std Regular",
+  "family": "OCR A Std",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_OCR-A-Std-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_OCR-A-Std-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Triunfo-Condensed",
+  "family": "Triunfo Condensed",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_Triunfo-Condensed",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Triunfo-Condensed.font",
+  "images": 20
+ },
+ {
+  "title": "Liberation Mono",
+  "family": "Liberation Mono",
+  "source": "DaFont",
+  "category": "Monospaced",
+  "caps_only": false,
+  "license_source": "archive",
+  "license_evidence": [
+   "GPL"
+  ],
+  "dafont_page": "https://www.dafont.com/liberation-mono.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "Foglihten",
+  "family": "Foglihten",
+  "source": "DaFont",
+  "category": "Serif",
+  "caps_only": false,
+  "license_source": "archive",
+  "license_evidence": [
+   "OFL"
+  ],
+  "dafont_page": "https://www.dafont.com/foglihten.font?l[]=10&l[]=1",
+  "images": 20
+ },
+ {
+  "title": "Heebo regular",
+  "family": "Heebo regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Heebo-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Heebo-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Montserrat Alternates Regular",
+  "family": "Montserrat Alternates Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Montserrat-Alternates-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Montserrat-Alternates-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Wuinbold",
+  "family": "Wuinbold",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Wuinbold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Wuinbold.font",
+  "images": 20
+ },
+ {
+  "title": "Spartan 500",
+  "family": "Spartan 500",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Spartan-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Spartan-500.font",
+  "images": 20
+ },
+ {
+  "title": "Alternate Gothic ATF Regular",
+  "family": "Alternate Gothic ATF Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Alternate-Gothic-ATF-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Alternate-Gothic-ATF-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Oil Field Bold Bold",
+  "family": "Oil Field Bold Bold",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Oil-Field-Bold-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Oil-Field-Bold-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Inter Tight Regular",
+  "family": "Inter Tight Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Inter-Tight-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Inter-Tight-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Gibson Regular",
+  "family": "Gibson Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Gibson-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Gibson-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Carson Medium",
+  "family": "Carson Medium",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Carson-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Carson-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Konkhmer Sleokchher Regular",
+  "family": "Konkhmer Sleokchher Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Konkhmer-Sleokchher-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Konkhmer-Sleokchher-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Nimbus Sans DV Regular",
+  "family": "Nimbus Sans DV Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Nimbus-Sans-DV-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Nimbus-Sans-DV-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Rutan Medium",
+  "family": "Rutan Medium",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Rutan-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Rutan-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Orbitron regular",
+  "family": "Orbitron regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Orbitron-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Orbitron-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Menco Medium",
+  "family": "Menco Medium",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Menco-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Menco-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "adhira-Regular",
+  "family": "adhira-Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_adhira-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_adhira-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Zen Maru Gothic Regular",
+  "family": "Zen Maru Gothic Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Zen-Maru-Gothic-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Zen-Maru-Gothic-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Domus Titling Regular",
+  "family": "Domus Titling Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "ADBE_Domus-Titling-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Domus-Titling-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Qualion",
+  "family": "Qualion",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Qualion",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Qualion.font",
+  "images": 20
+ },
+ {
+  "title": "Plus Jakarta Sans Regular",
+  "family": "Plus Jakarta Sans Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Plus-Jakarta-Sans-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Plus-Jakarta-Sans-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "DIN 1451 LT Pro Engschrift",
+  "family": "DIN 1451 LT Pro Engschrift",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_DIN-1451-LT-Pro-Engschrift",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_DIN-1451-LT-Pro-Engschrift.font",
+  "images": 20
+ },
+ {
+  "title": "S&S GreyHood Two",
+  "family": "S&S GreyHood Two",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_SS-GreyHood-Two",
+  "whatfontis_page": "https://www.whatfontis.com/CF_SS-GreyHood-Two.font",
+  "images": 20
+ },
+ {
+  "title": "Assistant regular",
+  "family": "Assistant regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Assistant-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Assistant-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Rift Soft Regular",
+  "family": "Rift Soft Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "ADBE_Rift-Soft-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Rift-Soft-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Wallman Love Bold",
+  "family": "Wallman Love Bold",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Wallman-Love-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Wallman-Love-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "NTR regular",
+  "family": "NTR regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_NTR-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_NTR-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Recent Grotesk Regular",
+  "family": "Recent Grotesk Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Recent-Grotesk-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Recent-Grotesk-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Baroque Medium",
+  "family": "Baroque Medium",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Baroque-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Baroque-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Figtree Regular",
+  "family": "Figtree Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Figtree-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Figtree-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Futura PT Book",
+  "family": "Futura PT Book",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Futura-PT-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Futura-PT-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Seroona",
+  "family": "Seroona",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Seroona",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Seroona.font",
+  "images": 20
+ },
+ {
+  "title": "Barlow regular",
+  "family": "Barlow regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Barlow-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Barlow-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Neue Haas Grotesk Text Pro 65 Medium",
+  "family": "Neue Haas Grotesk Text Pro 65 Medium",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Neue-Haas-Grotesk-Text-Pro-65-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Neue-Haas-Grotesk-Text-Pro-65-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "LEMON MILK Pro FTR Regular",
+  "family": "LEMON MILK Pro FTR Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_LEMON-MILK-Pro-FTR-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_LEMON-MILK-Pro-FTR-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Readex Pro Regular",
+  "family": "Readex Pro Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Readex-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Readex-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Raleway Regular",
+  "family": "Raleway Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Raleway-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Raleway-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "SoloSans-Regular",
+  "family": "SoloSans-Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_SoloSans-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_SoloSans-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Lexend Regular",
+  "family": "Lexend Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Lexend-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Lexend-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Berlin Sans Roman",
+  "family": "Berlin Sans Roman",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Berlin-Sans-Roman",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Berlin-Sans-Roman.font",
+  "images": 20
+ },
+ {
+  "title": "Geometos Soft Regular",
+  "family": "Geometos Soft Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Geometos-Soft-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Geometos-Soft-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Archivo regular",
+  "family": "Archivo regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Archivo-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Archivo-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Elza Regular",
+  "family": "Elza Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Elza-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Elza-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "EagleSight",
+  "family": "EagleSight",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_EagleSight",
+  "whatfontis_page": "https://www.whatfontis.com/CF_EagleSight.font",
+  "images": 20
+ },
+ {
+  "title": "Outfit Regular",
+  "family": "Outfit Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Outfit-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Outfit-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Quiche Sans Regular",
+  "family": "Quiche Sans Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Quiche-Sans-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Quiche-Sans-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Pledge-Regular",
+  "family": "Pledge-Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Pledge-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Pledge-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "DM Sans regular",
+  "family": "DM Sans regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_DM-Sans-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_DM-Sans-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Termina Regular",
+  "family": "Termina Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Termina-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Termina-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "SSNicksonFive",
+  "family": "SSNicksonFive",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_SSNicksonFive",
+  "whatfontis_page": "https://www.whatfontis.com/CF_SSNicksonFive.font",
+  "images": 20
+ },
+ {
+  "title": "Josefin Sans regular",
+  "family": "Josefin Sans regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Josefin-Sans-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Josefin-Sans-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Brandon Grotesque Regular",
+  "family": "Brandon Grotesque Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Brandon-Grotesque-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Brandon-Grotesque-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "K?nigsberg Light",
+  "family": "K?nigsberg Light",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Knigsberg-Light",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Knigsberg-Light.font",
+  "images": 20
+ },
+ {
+  "title": "League Spartan Regular",
+  "family": "League Spartan Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_League-Spartan-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_League-Spartan-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Refrigerator Deluxe Regular",
+  "family": "Refrigerator Deluxe Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Refrigerator-Deluxe-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Refrigerator-Deluxe-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Heavitas",
+  "family": "Heavitas",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Heavitas",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Heavitas.font",
+  "images": 20
+ },
+ {
+  "title": "Fredoka Regular",
+  "family": "Fredoka Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Fredoka-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Fredoka-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "DIN 2014 Regular",
+  "family": "DIN 2014 Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_DIN-2014-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_DIN-2014-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Newport Tracks Colour",
+  "family": "Newport Tracks Colour",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Newport-Tracks-Colour",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Newport-Tracks-Colour.font",
+  "images": 20
+ },
+ {
+  "title": "Antonio 200",
+  "family": "Antonio 200",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Antonio-200",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Antonio-200.font",
+  "images": 20
+ },
+ {
+  "title": "Nunito Regular",
+  "family": "Nunito Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Nunito-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Nunito-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Eloise",
+  "family": "Eloise",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Eloise",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Eloise.font",
+  "images": 20
+ },
+ {
+  "title": "Kantumruy Pro Regular",
+  "family": "Kantumruy Pro Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Kantumruy-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Kantumruy-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Europa Regular Regular",
+  "family": "Europa Regular Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Europa-Regular-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Europa-Regular-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Logster",
+  "family": "Logster",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Logster",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Logster.font",
+  "images": 20
+ },
+ {
+  "title": "Audiowide regular",
+  "family": "Audiowide regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Audiowide-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Audiowide-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Aller Regular",
+  "family": "Aller Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Aller-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Aller-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Forland",
+  "family": "Forland",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Forland",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Forland.font",
+  "images": 20
+ },
+ {
+  "title": "Questrial regular",
+  "family": "Questrial regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Questrial-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Questrial-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Houschka Rounded Medium",
+  "family": "Houschka Rounded Medium",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Houschka-Rounded-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Houschka-Rounded-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Swansound",
+  "family": "Swansound",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Swansound",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Swansound.font",
+  "images": 20
+ },
+ {
+  "title": "Red Hat Text 500",
+  "family": "Red Hat Text 500",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Red-Hat-Text-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Red-Hat-Text-500.font",
+  "images": 20
+ },
+ {
+  "title": "Como Regular",
+  "family": "Como Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Como-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Como-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Kalepro Regular",
+  "family": "Kalepro Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Kalepro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Kalepro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Jost Regular",
+  "family": "Jost Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Jost-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Jost-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Gin Regular",
+  "family": "Gin Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "ADBE_Gin-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Gin-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Victoria Tech Bold",
+  "family": "Victoria Tech Bold",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Victoria-Tech-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Victoria-Tech-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Dosis regular",
+  "family": "Dosis regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Dosis-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Dosis-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Scheme Regular",
+  "family": "Scheme Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Scheme-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Scheme-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Agenor Regular",
+  "family": "Agenor Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Agenor-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Agenor-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Secular One regular",
+  "family": "Secular One regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Secular-One-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Secular-One-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Vinyl OT Regular",
+  "family": "Vinyl OT Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Vinyl-OT-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Vinyl-OT-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Stolzl-Regular",
+  "family": "Stolzl-Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Stolzl-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Stolzl-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Lexend Exa regular",
+  "family": "Lexend Exa regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Lexend-Exa-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Lexend-Exa-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Fairweather Regular",
+  "family": "Fairweather Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Fairweather-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Fairweather-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "MHM PERDIDA",
+  "family": "MHM PERDIDA",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_MHM-PERDIDA",
+  "whatfontis_page": "https://www.whatfontis.com/CF_MHM-PERDIDA.font",
+  "images": 20
+ },
+ {
+  "title": "Manrope Regular",
+  "family": "Manrope Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Manrope-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Manrope-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Transat Text Medium",
+  "family": "Transat Text Medium",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Transat-Text-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Transat-Text-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "ArcaMajora3-Bold",
+  "family": "ArcaMajora3-Bold",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_ArcaMajora3-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_ArcaMajora3-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Tenor Sans regular",
+  "family": "Tenor Sans regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Tenor-Sans-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Tenor-Sans-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Yantramanav Regular",
+  "family": "Yantramanav Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Yantramanav-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Yantramanav-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Hubhead",
+  "family": "Hubhead",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Hubhead",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Hubhead.font",
+  "images": 20
+ },
+ {
+  "title": "Belleza regular",
+  "family": "Belleza regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Belleza-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Belleza-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Arboria Book",
+  "family": "Arboria Book",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Arboria-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Arboria-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Terbang",
+  "family": "Terbang",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Terbang",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Terbang.font",
+  "images": 20
+ },
+ {
+  "title": "Teko 300",
+  "family": "Teko 300",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Teko-300",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Teko-300.font",
+  "images": 20
+ },
+ {
+  "title": "Baloo Bhaijaan 2 Variable Regular",
+  "family": "Baloo Bhaijaan 2 Variable Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Baloo-Bhaijaan-2-Variable-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Baloo-Bhaijaan-2-Variable-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Oceanwide-Regular",
+  "family": "Oceanwide-Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Oceanwide-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Oceanwide-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Onest Regular",
+  "family": "Onest Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Onest-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Onest-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Rustica Semi Light",
+  "family": "Rustica Semi Light",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Rustica-Semi-Light",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Rustica-Semi-Light.font",
+  "images": 20
+ },
+ {
+  "title": "Polly Rounded Regular",
+  "family": "Polly Rounded Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Polly-Rounded-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Polly-Rounded-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "M PLUS Rounded 1c regular",
+  "family": "M PLUS Rounded 1c regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_M-PLUS-Rounded-1c-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_M-PLUS-Rounded-1c-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Chevin Pro Medium",
+  "family": "Chevin Pro Medium",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Chevin-Pro-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Chevin-Pro-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Twinable",
+  "family": "Twinable",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Twinable",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Twinable.font",
+  "images": 20
+ },
+ {
+  "title": "Manjari regular",
+  "family": "Manjari regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Manjari-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Manjari-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Expressway Regular",
+  "family": "Expressway Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Expressway-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Expressway-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Palermo",
+  "family": "Palermo",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Palermo",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Palermo.font",
+  "images": 20
+ },
+ {
+  "title": "Cabin regular",
+  "family": "Cabin regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Cabin-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Cabin-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Industry Book",
+  "family": "Industry Book",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Industry-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Industry-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Herz Light",
+  "family": "Herz Light",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Herz-Light",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Herz-Light.font",
+  "images": 20
+ },
+ {
+  "title": "Rajdhani regular",
+  "family": "Rajdhani regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Rajdhani-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Rajdhani-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Kiro Regular",
+  "family": "Kiro Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Kiro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Kiro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "WinongExtended Regular",
+  "family": "WinongExtended Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_WinongExtended-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_WinongExtended-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Goldman Regular",
+  "family": "Goldman Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Goldman-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Goldman-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "FranklinGothic URW Book",
+  "family": "FranklinGothic URW Book",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_FranklinGothic-URW-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_FranklinGothic-URW-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Punizione",
+  "family": "Punizione",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Punizione",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Punizione.font",
+  "images": 20
+ },
+ {
+  "title": "Russo One regular",
+  "family": "Russo One regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Russo-One-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Russo-One-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Haboro Soft Norm ExBold",
+  "family": "Haboro Soft Norm ExBold",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Haboro-Soft-Norm-ExBold",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Haboro-Soft-Norm-ExBold.font",
+  "images": 20
+ },
+ {
+  "title": "endeavour Regular",
+  "family": "endeavour Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_endeavour-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_endeavour-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sofia Sans Regular",
+  "family": "Sofia Sans Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Sofia-Sans-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Sofia-Sans-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "YoonA YoonChe Medium",
+  "family": "YoonA YoonChe Medium",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_YoonA-YoonChe-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_YoonA-YoonChe-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Osgood Sans Blur Medium",
+  "family": "Osgood Sans Blur Medium",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Osgood-Sans-Blur-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Osgood-Sans-Blur-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Amiko regular",
+  "family": "Amiko regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Amiko-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Amiko-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Liebling Regular",
+  "family": "Liebling Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Liebling-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Liebling-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "astrakhan-Regular",
+  "family": "astrakhan-Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_astrakhan-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_astrakhan-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Thasadith regular",
+  "family": "Thasadith regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Thasadith-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Thasadith-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Poster Gothic Round ExCond ATF Regular",
+  "family": "Poster Gothic Round ExCond ATF Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "ADBE_Poster-Gothic-Round-ExCond-ATF-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Poster-Gothic-Round-ExCond-ATF-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Angesicht Rounded Medium",
+  "family": "Angesicht Rounded Medium",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Angesicht-Rounded-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Angesicht-Rounded-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Righteous regular",
+  "family": "Righteous regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Righteous-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Righteous-regular.font",
+  "images": 20
+ },
+ {
+  "title": "BokutohRera 5",
+  "family": "BokutohRera 5",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_BokutohRera-5",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_BokutohRera-5.font",
+  "images": 20
+ },
+ {
+  "title": "Summerday Bold",
+  "family": "Summerday Bold",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Summerday-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Summerday-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Nanum Gothic regular",
+  "family": "Nanum Gothic regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Nanum-Gothic-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Nanum-Gothic-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Dico Sans Soft Regular",
+  "family": "Dico Sans Soft Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Dico-Sans-Soft-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Dico-Sans-Soft-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Moule",
+  "family": "Moule",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Moule",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Moule.font",
+  "images": 20
+ },
+ {
+  "title": "Urbanist Regular",
+  "family": "Urbanist Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Urbanist-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Urbanist-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Fieldwork Hum Regular",
+  "family": "Fieldwork Hum Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Fieldwork-Hum-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Fieldwork-Hum-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "JerawagBerroys",
+  "family": "JerawagBerroys",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_JerawagBerroys",
+  "whatfontis_page": "https://www.whatfontis.com/CF_JerawagBerroys.font",
+  "images": 20
+ },
+ {
+  "title": "Alumni Sans Regular",
+  "family": "Alumni Sans Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Alumni-Sans-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Alumni-Sans-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "All Round Gothic Book",
+  "family": "All Round Gothic Book",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_All-Round-Gothic-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_All-Round-Gothic-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Origo Pro Regular",
+  "family": "Origo Pro Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Origo-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Origo-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Jua regular",
+  "family": "Jua regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Jua-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Jua-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Good Times Regular",
+  "family": "Good Times Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "ADBE_Good-Times-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Good-Times-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Postmark-Regular",
+  "family": "Postmark-Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Postmark-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Postmark-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Michroma regular",
+  "family": "Michroma regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Michroma-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Michroma-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Report Regular",
+  "family": "Report Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Report-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Report-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Manolo Medium",
+  "family": "Manolo Medium",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Manolo-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Manolo-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Libre Franklin regular",
+  "family": "Libre Franklin regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Libre-Franklin-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Libre-Franklin-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Aptly Regular",
+  "family": "Aptly Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Aptly-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Aptly-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Bohgaku Regular",
+  "family": "Bohgaku Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Bohgaku-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Bohgaku-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Lexend Mega regular",
+  "family": "Lexend Mega regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Lexend-Mega-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Lexend-Mega-regular.font",
+  "images": 20
+ },
+ {
+  "title": "AgencyFB Regular",
+  "family": "AgencyFB Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_AgencyFB-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_AgencyFB-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Core",
+  "family": "Core",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Core",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Core.font",
+  "images": 20
+ },
+ {
+  "title": "Mina regular",
+  "family": "Mina regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Mina-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Mina-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sui Generis Regular",
+  "family": "Sui Generis Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Sui-Generis-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Sui-Generis-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Fattern",
+  "family": "Fattern",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Fattern",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Fattern.font",
+  "images": 20
+ },
+ {
+  "title": "Fjalla One regular",
+  "family": "Fjalla One regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Fjalla-One-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Fjalla-One-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Omnes Regular",
+  "family": "Omnes Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Omnes-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Omnes-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Robaga Rounded",
+  "family": "Robaga Rounded",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Robaga-Rounded",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Robaga-Rounded.font",
+  "images": 20
+ },
+ {
+  "title": "K2D regular",
+  "family": "K2D regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_K2D-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_K2D-regular.font",
+  "images": 20
+ },
+ {
+  "title": "League Gothic Condensed Regular",
+  "family": "League Gothic Condensed Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_League-Gothic-Condensed-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_League-Gothic-Condensed-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Buyan Regular",
+  "family": "Buyan Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Buyan-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Buyan-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Tilt Warp Regular",
+  "family": "Tilt Warp Regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Tilt-Warp-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Tilt-Warp-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Navigo Regular",
+  "family": "Navigo Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Navigo-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Navigo-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Quickly Bold",
+  "family": "Quickly Bold",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Quickly-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Quickly-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Staatliches regular",
+  "family": "Staatliches regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "GOOGLE_Staatliches-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Staatliches-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Handel Gothic D Medium",
+  "family": "Handel Gothic D Medium",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Handel-Gothic-D-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Handel-Gothic-D-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Poco Logo",
+  "family": "Poco Logo",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Poco-Logo",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Poco-Logo.font",
+  "images": 20
+ },
+ {
+  "title": "Kosugi Maru regular",
+  "family": "Kosugi Maru regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Kosugi-Maru-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Kosugi-Maru-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Wedding Gothic ATF Regular",
+  "family": "Wedding Gothic ATF Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "ADBE_Wedding-Gothic-ATF-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Wedding-Gothic-ATF-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Gheliq",
+  "family": "Gheliq",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_Gheliq",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Gheliq.font",
+  "images": 20
+ },
+ {
+  "title": "Signika regular",
+  "family": "Signika regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Signika-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Signika-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Presicav Regular",
+  "family": "Presicav Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Presicav-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Presicav-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "N19_pinned Regular",
+  "family": "N19_pinned Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "CF_N19_pinned-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_N19_pinned-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Public Sans 500",
+  "family": "Public Sans 500",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Public-Sans-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Public-Sans-500.font",
+  "images": 20
+ },
+ {
+  "title": "Kaneda Gothic Regular",
+  "family": "Kaneda Gothic Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Kaneda-Gothic-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Kaneda-Gothic-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Shoffer",
+  "family": "Shoffer",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Shoffer",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Shoffer.font",
+  "images": 20
+ },
+ {
+  "title": "PT Sans Caption regular",
+  "family": "PT Sans Caption regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_PT-Sans-Caption-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_PT-Sans-Caption-regular.font",
+  "images": 20
+ },
+ {
+  "title": "New Order Regular",
+  "family": "New Order Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_New-Order-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_New-Order-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sanhurst Condensed Regular",
+  "family": "Sanhurst Condensed Regular",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Sanhurst-Condensed-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Sanhurst-Condensed-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Khand regular",
+  "family": "Khand regular",
+  "source": "Google Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Khand-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Khand-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Hero New Regular",
+  "family": "Hero New Regular",
+  "source": "Adobe Fonts",
+  "category": "Sans-Serif",
+  "caps_only": false,
+  "url": "ADBE_Hero-New-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Hero-New-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Reitam",
+  "family": "Reitam",
+  "source": "Creative Fabrica",
+  "category": "Sans-Serif",
+  "caps_only": true,
+  "url": "CF_Reitam",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Reitam.font",
+  "images": 20
+ },
+ {
+  "title": "Abril Fatface regular",
+  "family": "Abril Fatface regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Abril-Fatface-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Abril-Fatface-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Trajan Pro 3 Regular",
+  "family": "Trajan Pro 3 Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "ADBE_Trajan-Pro-3-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Trajan-Pro-3-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "RosveliT",
+  "family": "RosveliT",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_RosveliT",
+  "whatfontis_page": "https://www.whatfontis.com/CF_RosveliT.font",
+  "images": 20
+ },
+ {
+  "title": "Yeseva One regular",
+  "family": "Yeseva One regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Yeseva-One-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Yeseva-One-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Abril Display Regular",
+  "family": "Abril Display Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Abril-Display-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Abril-Display-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Garfield Fade",
+  "family": "Garfield Fade",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Garfield-Fade",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Garfield-Fade.font",
+  "images": 20
+ },
+ {
+  "title": "Tai Heritage Pro Regular",
+  "family": "Tai Heritage Pro Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Tai-Heritage-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Tai-Heritage-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Classico URW Regular",
+  "family": "Classico URW Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Classico-URW-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Classico-URW-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Renata Regular",
+  "family": "Renata Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Renata-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Renata-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "El Messiri regular",
+  "family": "El Messiri regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_El-Messiri-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_El-Messiri-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Copperplate Light",
+  "family": "Copperplate Light",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "ADBE_Copperplate-Light",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Copperplate-Light.font",
+  "images": 20
+ },
+ {
+  "title": "RomeoFace",
+  "family": "RomeoFace",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_RomeoFace",
+  "whatfontis_page": "https://www.whatfontis.com/CF_RomeoFace.font",
+  "images": 20
+ },
+ {
+  "title": "BIZ UDMincho Regular",
+  "family": "BIZ UDMincho Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_BIZ-UDMincho-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_BIZ-UDMincho-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "The Seasons Regular",
+  "family": "The Seasons Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_The-Seasons-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_The-Seasons-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "RoadRace-Stamp",
+  "family": "RoadRace-Stamp",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_RoadRace-Stamp",
+  "whatfontis_page": "https://www.whatfontis.com/CF_RoadRace-Stamp.font",
+  "images": 20
+ },
+ {
+  "title": "Sumana regular",
+  "family": "Sumana regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Sumana-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Sumana-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Quinn Text Regular",
+  "family": "Quinn Text Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Quinn-Text-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Quinn-Text-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sous Sol",
+  "family": "Sous Sol",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Sous-Sol",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Sous-Sol.font",
+  "images": 20
+ },
+ {
+  "title": "Bitter regular",
+  "family": "Bitter regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Bitter-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Bitter-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Haboro Soft Norm Regular",
+  "family": "Haboro Soft Norm Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Haboro-Soft-Norm-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Haboro-Soft-Norm-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sichuan",
+  "family": "Sichuan",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Sichuan",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Sichuan.font",
+  "images": 20
+ },
+ {
+  "title": "Bellefair regular",
+  "family": "Bellefair regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Bellefair-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Bellefair-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Lora Regular",
+  "family": "Lora Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Lora-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Lora-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Officermans Bold",
+  "family": "Officermans Bold",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Officermans-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Officermans-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Cormorant regular",
+  "family": "Cormorant regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Cormorant-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Cormorant-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Louvette Deck Regular",
+  "family": "Louvette Deck Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Louvette-Deck-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Louvette-Deck-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Eastic regular",
+  "family": "Eastic regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Eastic-regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Eastic-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Forum regular",
+  "family": "Forum regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Forum-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Forum-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Trajan Sans Pro Regular",
+  "family": "Trajan Sans Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "ADBE_Trajan-Sans-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Trajan-Sans-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Winter Unicorn",
+  "family": "Winter Unicorn",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Winter-Unicorn",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Winter-Unicorn.font",
+  "images": 20
+ },
+ {
+  "title": "Koh Santepheap Regular",
+  "family": "Koh Santepheap Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Koh-Santepheap-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Koh-Santepheap-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "KansasNew Regular",
+  "family": "KansasNew Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_KansasNew-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_KansasNew-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Fashion Slash Light",
+  "family": "Fashion Slash Light",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Fashion-Slash-Light",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Fashion-Slash-Light.font",
+  "images": 20
+ },
+ {
+  "title": "Marcellus regular",
+  "family": "Marcellus regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Marcellus-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Marcellus-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Nimbus Roman D Regular",
+  "family": "Nimbus Roman D Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Nimbus-Roman-D-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Nimbus-Roman-D-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Inlander",
+  "family": "Inlander",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Inlander",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Inlander.font",
+  "images": 20
+ },
+ {
+  "title": "Markazi Text 500",
+  "family": "Markazi Text 500",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Markazi-Text-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Markazi-Text-500.font",
+  "images": 20
+ },
+ {
+  "title": "Athelas Regular",
+  "family": "Athelas Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Athelas-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Athelas-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Morgen Regular",
+  "family": "Morgen Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Morgen-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Morgen-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Patua One regular",
+  "family": "Patua One regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Patua-One-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Patua-One-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Capitolina Regular",
+  "family": "Capitolina Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Capitolina-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Capitolina-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "SWORDHAVEN Regular",
+  "family": "SWORDHAVEN Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_SWORDHAVEN-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_SWORDHAVEN-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Imbue Regular",
+  "family": "Imbue Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Imbue-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Imbue-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Anziano Pro Regular",
+  "family": "Anziano Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Anziano-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Anziano-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Arterio",
+  "family": "Arterio",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Arterio",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Arterio.font",
+  "images": 20
+ },
+ {
+  "title": "Cormorant Upright regular",
+  "family": "Cormorant Upright regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Cormorant-Upright-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Cormorant-Upright-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Granville Regular",
+  "family": "Granville Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Granville-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Granville-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Wacian-regular",
+  "family": "Wacian-regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Wacian-regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Wacian-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Castoro Titling Regular",
+  "family": "Castoro Titling Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "GOOGLE_Castoro-Titling-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Castoro-Titling-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Meta Serif Pro Book",
+  "family": "Meta Serif Pro Book",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Meta-Serif-Pro-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Meta-Serif-Pro-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Ellington Regular",
+  "family": "Ellington Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Ellington-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Ellington-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Frank Ruhl Libre regular",
+  "family": "Frank Ruhl Libre regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Frank-Ruhl-Libre-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Frank-Ruhl-Libre-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Miller Text Roman",
+  "family": "Miller Text Roman",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Miller-Text-Roman",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Miller-Text-Roman.font",
+  "images": 20
+ },
+ {
+  "title": "Jaxou regular",
+  "family": "Jaxou regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Jaxou-regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Jaxou-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sahitya regular",
+  "family": "Sahitya regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Sahitya-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Sahitya-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Gelo Regular",
+  "family": "Gelo Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Gelo-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Gelo-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Megeon",
+  "family": "Megeon",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Megeon",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Megeon.font",
+  "images": 20
+ },
+ {
+  "title": "Lusitana regular",
+  "family": "Lusitana regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Lusitana-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Lusitana-regular.font",
+  "images": 20
+ },
+ {
+  "title": "IvyJournal Regular",
+  "family": "IvyJournal Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_IvyJournal-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_IvyJournal-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Akustiq",
+  "family": "Akustiq",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Akustiq",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Akustiq.font",
+  "images": 20
+ },
+ {
+  "title": "Vollkorn regular",
+  "family": "Vollkorn regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Vollkorn-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Vollkorn-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Adobe Caslon Pro Regular",
+  "family": "Adobe Caslon Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Adobe-Caslon-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Adobe-Caslon-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Astoria Classic Roman",
+  "family": "Astoria Classic Roman",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Astoria-Classic-Roman",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Astoria-Classic-Roman.font",
+  "images": 20
+ },
+ {
+  "title": "Solway Regular",
+  "family": "Solway Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Solway-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Solway-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Kandal Book",
+  "family": "Kandal Book",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Kandal-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Kandal-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Tautz Medium",
+  "family": "Tautz Medium",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Tautz-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Tautz-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Cormorant Infant regular",
+  "family": "Cormorant Infant regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Cormorant-Infant-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Cormorant-Infant-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Beaufort Pro Regular",
+  "family": "Beaufort Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Beaufort-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Beaufort-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Antique Regular",
+  "family": "Antique Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Antique-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Antique-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Suranna regular",
+  "family": "Suranna regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Suranna-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Suranna-regular.font",
+  "images": 20
+ },
+ {
+  "title": "WilliamsCaslonText Regular",
+  "family": "WilliamsCaslonText Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_WilliamsCaslonText-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_WilliamsCaslonText-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Baskerville Light",
+  "family": "Baskerville Light",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Baskerville-Light",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Baskerville-Light.font",
+  "images": 20
+ },
+ {
+  "title": "Bodoni Moda Regular",
+  "family": "Bodoni Moda Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Bodoni-Moda-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Bodoni-Moda-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Kings Caslon Display Regular",
+  "family": "Kings Caslon Display Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Kings-Caslon-Display-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Kings-Caslon-Display-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Shaaron-Regular",
+  "family": "Shaaron-Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Shaaron-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Shaaron-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sorts Mill Goudy regular",
+  "family": "Sorts Mill Goudy regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Sorts-Mill-Goudy-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Sorts-Mill-Goudy-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Whitman Roman",
+  "family": "Whitman Roman",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Whitman-Roman",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Whitman-Roman.font",
+  "images": 20
+ },
+ {
+  "title": "Wisper Regular",
+  "family": "Wisper Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Wisper-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Wisper-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "PT Serif regular",
+  "family": "PT Serif regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_PT-Serif-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_PT-Serif-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Benguiat Pro ITC Book",
+  "family": "Benguiat Pro ITC Book",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Benguiat-Pro-ITC-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Benguiat-Pro-ITC-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Miamo Regular",
+  "family": "Miamo Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Miamo-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Miamo-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Ramaraja regular",
+  "family": "Ramaraja regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Ramaraja-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Ramaraja-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Goudy Old Style Regular",
+  "family": "Goudy Old Style Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Goudy-Old-Style-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Goudy-Old-Style-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Located",
+  "family": "Located",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Located",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Located.font",
+  "images": 20
+ },
+ {
+  "title": "Radley regular",
+  "family": "Radley regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Radley-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Radley-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Tasman Regular",
+  "family": "Tasman Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Tasman-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Tasman-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Carena Regular",
+  "family": "Carena Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Carena-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Carena-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Peddana regular",
+  "family": "Peddana regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Peddana-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Peddana-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Big Moore Regular",
+  "family": "Big Moore Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Big-Moore-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Big-Moore-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Madelin-Round",
+  "family": "Madelin-Round",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Madelin-Round",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Madelin-Round.font",
+  "images": 20
+ },
+ {
+  "title": "Nanum Myeongjo regular",
+  "family": "Nanum Myeongjo regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Nanum-Myeongjo-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Nanum-Myeongjo-regular.font",
+  "images": 20
+ },
+ {
+  "title": "P22 Mackinac Pro Book",
+  "family": "P22 Mackinac Pro Book",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_P22-Mackinac-Pro-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_P22-Mackinac-Pro-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Mollieglaston",
+  "family": "Mollieglaston",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Mollieglaston",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Mollieglaston.font",
+  "images": 20
+ },
+ {
+  "title": "Prata regular",
+  "family": "Prata regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Prata-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Prata-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Big Caslon FB Regular",
+  "family": "Big Caslon FB Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Big-Caslon-FB-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Big-Caslon-FB-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Nern regular",
+  "family": "Nern regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Nern-regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Nern-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Fraunces Regular",
+  "family": "Fraunces Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Fraunces-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Fraunces-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Lexia Regular",
+  "family": "Lexia Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Lexia-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Lexia-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "AliceGottardoDisplay",
+  "family": "AliceGottardoDisplay",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_AliceGottardoDisplay",
+  "whatfontis_page": "https://www.whatfontis.com/CF_AliceGottardoDisplay.font",
+  "images": 20
+ },
+ {
+  "title": "Faustina regular",
+  "family": "Faustina regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Faustina-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Faustina-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Adonis Regular",
+  "family": "Adonis Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Adonis-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Adonis-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Ancutz",
+  "family": "Ancutz",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Ancutz",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Ancutz.font",
+  "images": 20
+ },
+ {
+  "title": "Eczar regular",
+  "family": "Eczar regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Eczar-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Eczar-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Rooney Regular",
+  "family": "Rooney Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Rooney-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Rooney-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Nutch-Regular",
+  "family": "Nutch-Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Nutch-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Nutch-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Cambo regular",
+  "family": "Cambo regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Cambo-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Cambo-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Davis Regular",
+  "family": "Davis Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Davis-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Davis-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "ValleyRegular",
+  "family": "ValleyRegular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_ValleyRegular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_ValleyRegular.font",
+  "images": 20
+ },
+ {
+  "title": "Vidaloka regular",
+  "family": "Vidaloka regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Vidaloka-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Vidaloka-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Georgia Pro Regular",
+  "family": "Georgia Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Georgia-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Georgia-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Virian regular",
+  "family": "Virian regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Virian-regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Virian-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Karma regular",
+  "family": "Karma regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Karma-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Karma-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Baskerville URW Regular",
+  "family": "Baskerville URW Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Baskerville-URW-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Baskerville-URW-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "The_ALISTAREN",
+  "family": "The_ALISTAREN",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_The_ALISTAREN",
+  "whatfontis_page": "https://www.whatfontis.com/CF_The_ALISTAREN.font",
+  "images": 20
+ },
+ {
+  "title": "Alike Angular regular",
+  "family": "Alike Angular regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Alike-Angular-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Alike-Angular-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Desire Pro Regular",
+  "family": "Desire Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Desire-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Desire-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Maron Rose",
+  "family": "Maron Rose",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Maron-Rose",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Maron-Rose.font",
+  "images": 20
+ },
+ {
+  "title": "Charis SIL Regular",
+  "family": "Charis SIL Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Charis-SIL-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Charis-SIL-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Garamond ATF Text Regular",
+  "family": "Garamond ATF Text Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Garamond-ATF-Text-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Garamond-ATF-Text-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Bilingual Serif Font Regular",
+  "family": "Bilingual Serif Font Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Bilingual-Serif-Font-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Bilingual-Serif-Font-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Lisu Bosa Regular",
+  "family": "Lisu Bosa Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Lisu-Bosa-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Lisu-Bosa-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Canto Roman",
+  "family": "Canto Roman",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Canto-Roman",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Canto-Roman.font",
+  "images": 20
+ },
+ {
+  "title": "Gendis",
+  "family": "Gendis",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Gendis",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Gendis.font",
+  "images": 20
+ },
+ {
+  "title": "Crete Round regular",
+  "family": "Crete Round regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Crete-Round-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Crete-Round-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Starling Roman",
+  "family": "Starling Roman",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Starling-Roman",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Starling-Roman.font",
+  "images": 20
+ },
+ {
+  "title": "Giveny Regular",
+  "family": "Giveny Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Giveny-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Giveny-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Quando regular",
+  "family": "Quando regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Quando-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Quando-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Viroqua Regular",
+  "family": "Viroqua Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Viroqua-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Viroqua-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Ranille",
+  "family": "Ranille",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Ranille",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Ranille.font",
+  "images": 20
+ },
+ {
+  "title": "Domine regular",
+  "family": "Domine regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Domine-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Domine-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Jubilat Book",
+  "family": "Jubilat Book",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Jubilat-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Jubilat-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Malaka-Regular",
+  "family": "Malaka-Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Malaka-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Malaka-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Asul regular",
+  "family": "Asul regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Asul-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Asul-regular.font",
+  "images": 20
+ },
+ {
+  "title": "LTC Goudy Oldstyle Pro Regular",
+  "family": "LTC Goudy Oldstyle Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_LTC-Goudy-Oldstyle-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_LTC-Goudy-Oldstyle-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "BouldersBeachSerif-Regular",
+  "family": "BouldersBeachSerif-Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_BouldersBeachSerif-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_BouldersBeachSerif-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Lustria regular",
+  "family": "Lustria regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Lustria-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Lustria-regular.font",
+  "images": 20
+ },
+ {
+  "title": "FOT Chiaro Std B",
+  "family": "FOT Chiaro Std B",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_FOT-Chiaro-Std-B",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_FOT-Chiaro-Std-B.font",
+  "images": 20
+ },
+ {
+  "title": "Elizea Regular",
+  "family": "Elizea Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Elizea-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Elizea-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Goblin One regular",
+  "family": "Goblin One regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Goblin-One-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Goblin-One-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Mokoko Regular",
+  "family": "Mokoko Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Mokoko-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Mokoko-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "NN Mask Serif",
+  "family": "NN Mask Serif",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_NN-Mask-Serif",
+  "whatfontis_page": "https://www.whatfontis.com/CF_NN-Mask-Serif.font",
+  "images": 20
+ },
+ {
+  "title": "Libre Caslon Text regular",
+  "family": "Libre Caslon Text regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Libre-Caslon-Text-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Libre-Caslon-Text-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Paradigm Pro Regular",
+  "family": "Paradigm Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Paradigm-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Paradigm-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Ziral regular",
+  "family": "Ziral regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Ziral-regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Ziral-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Caudex regular",
+  "family": "Caudex regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Caudex-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Caudex-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Etna Condensed Regular",
+  "family": "Etna Condensed Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Etna-Condensed-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Etna-Condensed-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Montage Serif Font Regular",
+  "family": "Montage Serif Font Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Montage-Serif-Font-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Montage-Serif-Font-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Suez One regular",
+  "family": "Suez One regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Suez-One-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Suez-One-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Goldenbook Regular",
+  "family": "Goldenbook Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Goldenbook-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Goldenbook-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Cammron-Regular",
+  "family": "Cammron-Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Cammron-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Cammron-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Arapey regular",
+  "family": "Arapey regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Arapey-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Arapey-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Millesime Regular",
+  "family": "Millesime Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Millesime-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Millesime-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Garmani-Regular",
+  "family": "Garmani-Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Garmani-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Garmani-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "David Libre regular",
+  "family": "David Libre regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_David-Libre-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_David-Libre-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Matrix II OT Book",
+  "family": "Matrix II OT Book",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Matrix-II-OT-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Matrix-II-OT-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Ragitta",
+  "family": "Ragitta",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Ragitta",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Ragitta.font",
+  "images": 20
+ },
+ {
+  "title": "Halant regular",
+  "family": "Halant regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Halant-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Halant-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Meno Text Regular",
+  "family": "Meno Text Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Meno-Text-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Meno-Text-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "So Vogue",
+  "family": "So Vogue",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_So-Vogue",
+  "whatfontis_page": "https://www.whatfontis.com/CF_So-Vogue.font",
+  "images": 20
+ },
+ {
+  "title": "Gabriela regular",
+  "family": "Gabriela regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Gabriela-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Gabriela-regular.font",
+  "images": 20
+ },
+ {
+  "title": "ITC Giovanni Std Book",
+  "family": "ITC Giovanni Std Book",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_ITC-Giovanni-Std-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_ITC-Giovanni-Std-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Revans-Normal",
+  "family": "Revans-Normal",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Revans-Normal",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Revans-Normal.font",
+  "images": 20
+ },
+ {
+  "title": "Oranienbaum regular",
+  "family": "Oranienbaum regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Oranienbaum-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Oranienbaum-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Orpheus Pro Regular",
+  "family": "Orpheus Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Orpheus-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Orpheus-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Brastika Light",
+  "family": "Brastika Light",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Brastika-Light",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Brastika-Light.font",
+  "images": 20
+ },
+ {
+  "title": "Unna regular",
+  "family": "Unna regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Unna-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Unna-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Vincente Regular",
+  "family": "Vincente Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Vincente-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Vincente-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Ablafit Regular",
+  "family": "Ablafit Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Ablafit-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Ablafit-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Grenze regular",
+  "family": "Grenze regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Grenze-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Grenze-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Fairplex Narrow OT Book",
+  "family": "Fairplex Narrow OT Book",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Fairplex-Narrow-OT-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Fairplex-Narrow-OT-Book.font",
+  "images": 20
+ },
+ {
+  "title": "DerpacheCaps",
+  "family": "DerpacheCaps",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_DerpacheCaps",
+  "whatfontis_page": "https://www.whatfontis.com/CF_DerpacheCaps.font",
+  "images": 20
+ },
+ {
+  "title": "Quattrocento regular",
+  "family": "Quattrocento regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Quattrocento-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Quattrocento-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Fields Regular",
+  "family": "Fields Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Fields-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Fields-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Assassin regular",
+  "family": "Assassin regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Assassin-regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Assassin-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Gulzar Regular",
+  "family": "Gulzar Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Gulzar-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Gulzar-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Hightower TextRoman",
+  "family": "Hightower TextRoman",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Hightower-TextRoman",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Hightower-TextRoman.font",
+  "images": 20
+ },
+ {
+  "title": "Coldiac-Regular",
+  "family": "Coldiac-Regular",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": true,
+  "url": "CF_Coldiac-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Coldiac-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Poltawski Nowy Regular",
+  "family": "Poltawski Nowy Regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Poltawski-Nowy-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Poltawski-Nowy-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Poynter Oldstyle Text Roman",
+  "family": "Poynter Oldstyle Text Roman",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Poynter-Oldstyle-Text-Roman",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Poynter-Oldstyle-Text-Roman.font",
+  "images": 20
+ },
+ {
+  "title": "Lavirati",
+  "family": "Lavirati",
+  "source": "Creative Fabrica",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "CF_Lavirati",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Lavirati.font",
+  "images": 20
+ },
+ {
+  "title": "Noticia Text regular",
+  "family": "Noticia Text regular",
+  "source": "Google Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Noticia-Text-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Noticia-Text-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Calluna Regular",
+  "family": "Calluna Regular",
+  "source": "Adobe Fonts",
+  "category": "Serif",
+  "caps_only": false,
+  "url": "ADBE_Calluna-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Calluna-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Roboto Slab regular",
+  "family": "Roboto Slab regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Roboto-Slab-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Roboto-Slab-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Neue Aachen Pro Regular",
+  "family": "Neue Aachen Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Neue-Aachen-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Neue-Aachen-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "College Block 2.0",
+  "family": "College Block 2.0",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_College-Block-20",
+  "whatfontis_page": "https://www.whatfontis.com/CF_College-Block-20.font",
+  "images": 20
+ },
+ {
+  "title": "Aleo regular",
+  "family": "Aleo regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Aleo-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Aleo-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Constructa Bold",
+  "family": "Constructa Bold",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Constructa-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Constructa-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Empirez",
+  "family": "Empirez",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Empirez",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Empirez.font",
+  "images": 20
+ },
+ {
+  "title": "Graduate regular",
+  "family": "Graduate regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "GOOGLE_Graduate-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Graduate-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Quatro Slab Regular",
+  "family": "Quatro Slab Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Quatro-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Quatro-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Norwill",
+  "family": "Norwill",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_Norwill",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Norwill.font",
+  "images": 20
+ },
+ {
+  "title": "Hepta Slab regular",
+  "family": "Hepta Slab regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Hepta-Slab-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Hepta-Slab-regular.font",
+  "images": 20
+ },
+ {
+  "title": "House of cards Regular",
+  "family": "House of cards Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_House-of-cards-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_House-of-cards-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Indonesia Light",
+  "family": "Indonesia Light",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_Indonesia-Light",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Indonesia-Light.font",
+  "images": 20
+ },
+ {
+  "title": "Podkova regular",
+  "family": "Podkova regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Podkova-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Podkova-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Job Clarendon Regular",
+  "family": "Job Clarendon Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Job-Clarendon-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Job-Clarendon-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Touchdown Font Regular",
+  "family": "Touchdown Font Regular",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Touchdown-Font-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Touchdown-Font-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Josefin Slab regular",
+  "family": "Josefin Slab regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Josefin-Slab-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Josefin-Slab-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Stymie Regular",
+  "family": "Stymie Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Stymie-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Stymie-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "BrownCollege-Regular",
+  "family": "BrownCollege-Regular",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_BrownCollege-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_BrownCollege-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Kelly Slab regular",
+  "family": "Kelly Slab regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Kelly-Slab-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Kelly-Slab-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Factoria Book",
+  "family": "Factoria Book",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Factoria-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Factoria-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Porthem Rounded",
+  "family": "Porthem Rounded",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Porthem-Rounded",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Porthem-Rounded.font",
+  "images": 20
+ },
+ {
+  "title": "Wellfleet regular",
+  "family": "Wellfleet regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Wellfleet-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Wellfleet-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Clarendon Text Pro Regular",
+  "family": "Clarendon Text Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Clarendon-Text-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Clarendon-Text-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "SLABERG",
+  "family": "SLABERG",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_SLABERG",
+  "whatfontis_page": "https://www.whatfontis.com/CF_SLABERG.font",
+  "images": 20
+ },
+ {
+  "title": "Montagu Slab Regular",
+  "family": "Montagu Slab Regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Montagu-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Montagu-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sheepman Regular",
+  "family": "Sheepman Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Sheepman-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Sheepman-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Brandalsalternate",
+  "family": "Brandalsalternate",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Brandalsalternate",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Brandalsalternate.font",
+  "images": 20
+ },
+ {
+  "title": "Bigshot One regular",
+  "family": "Bigshot One regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Bigshot-One-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Bigshot-One-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Aglet Slab Regular",
+  "family": "Aglet Slab Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Aglet-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Aglet-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Sport Champs Simple Regular",
+  "family": "Sport Champs Simple Regular",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Sport-Champs-Simple-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Sport-Champs-Simple-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Antic Slab regular",
+  "family": "Antic Slab regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Antic-Slab-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Antic-Slab-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Pragmatica Slabserif Book",
+  "family": "Pragmatica Slabserif Book",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Pragmatica-Slabserif-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Pragmatica-Slabserif-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Narayana",
+  "family": "Narayana",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Narayana",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Narayana.font",
+  "images": 20
+ },
+ {
+  "title": "Unlock regular",
+  "family": "Unlock regular",
+  "source": "Google Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "GOOGLE_Unlock-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Unlock-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Dico Slab Regular",
+  "family": "Dico Slab Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Dico-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Dico-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Gamarasa-Bold",
+  "family": "Gamarasa-Bold",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Gamarasa-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Gamarasa-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Clarendon URW Extra Narrow Regular",
+  "family": "Clarendon URW Extra Narrow Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Clarendon-URW-Extra-Narrow-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Clarendon-URW-Extra-Narrow-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Adirek Slab Regular",
+  "family": "Adirek Slab Regular",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_Adirek-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Adirek-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Elizeth Regular",
+  "family": "Elizeth Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Elizeth-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Elizeth-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Old Scotch Clean",
+  "family": "Old Scotch Clean",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Old-Scotch-Clean",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Old-Scotch-Clean.font",
+  "images": 20
+ },
+ {
+  "title": "Novecento slab Normal",
+  "family": "Novecento slab Normal",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "ADBE_Novecento-slab-Normal",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Novecento-slab-Normal.font",
+  "images": 20
+ },
+ {
+  "title": "RedgarSlab",
+  "family": "RedgarSlab",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_RedgarSlab",
+  "whatfontis_page": "https://www.whatfontis.com/CF_RedgarSlab.font",
+  "images": 20
+ },
+ {
+  "title": "Mitigate Book",
+  "family": "Mitigate Book",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Mitigate-Book",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Mitigate-Book.font",
+  "images": 20
+ },
+ {
+  "title": "Barley-Regular",
+  "family": "Barley-Regular",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Barley-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Barley-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Caecilia LT Pro 55 Roman",
+  "family": "Caecilia LT Pro 55 Roman",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Caecilia-LT-Pro-55-Roman",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Caecilia-LT-Pro-55-Roman.font",
+  "images": 20
+ },
+ {
+  "title": "Averil",
+  "family": "Averil",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Averil",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Averil.font",
+  "images": 20
+ },
+ {
+  "title": "Belizio Regular",
+  "family": "Belizio Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Belizio-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Belizio-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "AlterousDisplay",
+  "family": "AlterousDisplay",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_AlterousDisplay",
+  "whatfontis_page": "https://www.whatfontis.com/CF_AlterousDisplay.font",
+  "images": 20
+ },
+ {
+  "title": "Yorkten Slab Cond Regular",
+  "family": "Yorkten Slab Cond Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Yorkten-Slab-Cond-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Yorkten-Slab-Cond-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Courage Union",
+  "family": "Courage Union",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Courage-Union",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Courage-Union.font",
+  "images": 20
+ },
+ {
+  "title": "Kulturista Medium",
+  "family": "Kulturista Medium",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Kulturista-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Kulturista-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Mom Sew Solid",
+  "family": "Mom Sew Solid",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Mom-Sew-Solid",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Mom-Sew-Solid.font",
+  "images": 20
+ },
+ {
+  "title": "Sutro  Light",
+  "family": "Sutro  Light",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Sutro-Light",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Sutro-Light.font",
+  "images": 20
+ },
+ {
+  "title": "College Baseball",
+  "family": "College Baseball",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_College-Baseball",
+  "whatfontis_page": "https://www.whatfontis.com/CF_College-Baseball.font",
+  "images": 20
+ },
+ {
+  "title": "Sommet Slab Regular",
+  "family": "Sommet Slab Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Sommet-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Sommet-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "AMTW-Reg",
+  "family": "AMTW-Reg",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_AMTW-Reg",
+  "whatfontis_page": "https://www.whatfontis.com/CF_AMTW-Reg.font",
+  "images": 20
+ },
+ {
+  "title": "Superclarendon Regular",
+  "family": "Superclarendon Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Superclarendon-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Superclarendon-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Hustle Kindness",
+  "family": "Hustle Kindness",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Hustle-Kindness",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Hustle-Kindness.font",
+  "images": 20
+ },
+ {
+  "title": "Aviano Slab Regular",
+  "family": "Aviano Slab Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "ADBE_Aviano-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Aviano-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Useful Effort Solid",
+  "family": "Useful Effort Solid",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Useful-Effort-Solid",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Useful-Effort-Solid.font",
+  "images": 20
+ },
+ {
+  "title": "Colt Soft Regular",
+  "family": "Colt Soft Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "ADBE_Colt-Soft-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Colt-Soft-Regular.font",
+  "images": 15
+ },
+ {
+  "title": "Bronco Regular",
+  "family": "Bronco Regular",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Bronco-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Bronco-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Los Feliz OT Roman",
+  "family": "Los Feliz OT Roman",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Los-Feliz-OT-Roman",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Los-Feliz-OT-Roman.font",
+  "images": 20
+ },
+ {
+  "title": "Crekings",
+  "family": "Crekings",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Crekings",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Crekings.font",
+  "images": 20
+ },
+ {
+  "title": "Kegger Collegiate Regular",
+  "family": "Kegger Collegiate Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Kegger-Collegiate-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Kegger-Collegiate-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Silk Remington-Reg",
+  "family": "Silk Remington-Reg",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_Silk-Remington-Reg",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Silk-Remington-Reg.font",
+  "images": 20
+ },
+ {
+  "title": "Typeka Bold",
+  "family": "Typeka Bold",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Typeka-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Typeka-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "DESPORM",
+  "family": "DESPORM",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_DESPORM",
+  "whatfontis_page": "https://www.whatfontis.com/CF_DESPORM.font",
+  "images": 20
+ },
+ {
+  "title": "Mortise Regular",
+  "family": "Mortise Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Mortise-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Mortise-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "ToenasBangsaSlab-Bold",
+  "family": "ToenasBangsaSlab-Bold",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_ToenasBangsaSlab-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_ToenasBangsaSlab-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Breakers Slab Regular",
+  "family": "Breakers Slab Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Breakers-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Breakers-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Diesel Bold",
+  "family": "Diesel Bold",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Diesel-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Diesel-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Modesto Initials Fill",
+  "family": "Modesto Initials Fill",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "ADBE_Modesto-Initials-Fill",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Modesto-Initials-Fill.font",
+  "images": 20
+ },
+ {
+  "title": "Runboy",
+  "family": "Runboy",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_Runboy",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Runboy.font",
+  "images": 20
+ },
+ {
+  "title": "Brix Slab Regular",
+  "family": "Brix Slab Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Brix-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Brix-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "LSF Front Porch",
+  "family": "LSF Front Porch",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_LSF-Front-Porch",
+  "whatfontis_page": "https://www.whatfontis.com/CF_LSF-Front-Porch.font",
+  "images": 20
+ },
+ {
+  "title": "Yorkten Slab Norm ExBold",
+  "family": "Yorkten Slab Norm ExBold",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Yorkten-Slab-Norm-ExBold",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Yorkten-Slab-Norm-ExBold.font",
+  "images": 20
+ },
+ {
+  "title": "stacked college Regular",
+  "family": "stacked college Regular",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_stacked-college-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_stacked-college-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Laski Slab Regular",
+  "family": "Laski Slab Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Laski-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Laski-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "College Project Regular",
+  "family": "College Project Regular",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_College-Project-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_College-Project-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Cabrito Cond ExBold",
+  "family": "Cabrito Cond ExBold",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Cabrito-Cond-ExBold",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Cabrito-Cond-ExBold.font",
+  "images": 20
+ },
+ {
+  "title": "Calvous-Regular",
+  "family": "Calvous-Regular",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Calvous-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Calvous-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Riquet Regular",
+  "family": "Riquet Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Riquet-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Riquet-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Radley-Serif-Cut",
+  "family": "Radley-Serif-Cut",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Radley-Serif-Cut",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Radley-Serif-Cut.font",
+  "images": 20
+ },
+ {
+  "title": "Karbid Slab Pro Regular",
+  "family": "Karbid Slab Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Karbid-Slab-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Karbid-Slab-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Fairtrade-Espresso",
+  "family": "Fairtrade-Espresso",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Fairtrade-Espresso",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Fairtrade-Espresso.font",
+  "images": 20
+ },
+ {
+  "title": "Boucherie Block Regular",
+  "family": "Boucherie Block Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "ADBE_Boucherie-Block-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Boucherie-Block-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Alexside",
+  "family": "Alexside",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "CF_Alexside",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Alexside.font",
+  "images": 20
+ },
+ {
+  "title": "Hatch Regular",
+  "family": "Hatch Regular",
+  "source": "Adobe Fonts",
+  "category": "Slab Serif",
+  "caps_only": false,
+  "url": "ADBE_Hatch-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Hatch-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Cadass Serif",
+  "family": "Cadass Serif",
+  "source": "Creative Fabrica",
+  "category": "Slab Serif",
+  "caps_only": true,
+  "url": "CF_Cadass-Serif",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Cadass-Serif.font",
+  "images": 20
+ },
+ {
+  "title": "Noto Sans Mono 500",
+  "family": "Noto Sans Mono 500",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Noto-Sans-Mono-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Noto-Sans-Mono-500.font",
+  "images": 20
+ },
+ {
+  "title": "Courier Std Medium",
+  "family": "Courier Std Medium",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Courier-Std-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Courier-Std-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "IBM Selectric Courier Regular",
+  "family": "IBM Selectric Courier Regular",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_IBM-Selectric-Courier-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_IBM-Selectric-Courier-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Overpass Mono regular",
+  "family": "Overpass Mono regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Overpass-Mono-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Overpass-Mono-regular.font",
+  "images": 20
+ },
+ {
+  "title": "InterstateMono Regular",
+  "family": "InterstateMono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_InterstateMono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_InterstateMono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "SykeMono-Regular",
+  "family": "SykeMono-Regular",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_SykeMono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_SykeMono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Source Code Pro regular",
+  "family": "Source Code Pro regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Source-Code-Pro-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Source-Code-Pro-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Calling Code Regular",
+  "family": "Calling Code Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Calling-Code-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Calling-Code-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "IBM Selectric Orator Regular",
+  "family": "IBM Selectric Orator Regular",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": true,
+  "url": "CF_IBM-Selectric-Orator-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_IBM-Selectric-Orator-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Red Hat Mono Regular",
+  "family": "Red Hat Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Red-Hat-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Red-Hat-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Mono45 Headline Bold",
+  "family": "Mono45 Headline Bold",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": true,
+  "url": "ADBE_Mono45-Headline-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Mono45-Headline-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "Noplato Mono",
+  "family": "Noplato Mono",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": true,
+  "url": "CF_Noplato-Mono",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Noplato-Mono.font",
+  "images": 20
+ },
+ {
+  "title": "Fira Code regular",
+  "family": "Fira Code regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Fira-Code-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Fira-Code-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Droid Sans Mono Regular",
+  "family": "Droid Sans Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Droid-Sans-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Droid-Sans-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Libertad Mono Regular",
+  "family": "Libertad Mono Regular",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": true,
+  "url": "CF_Libertad-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Libertad-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Chivo Mono Regular",
+  "family": "Chivo Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Chivo-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Chivo-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Code Saver Regular",
+  "family": "Code Saver Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Code-Saver-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Code-Saver-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "ProtoMono-SemiBold",
+  "family": "ProtoMono-SemiBold",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": true,
+  "url": "CF_ProtoMono-SemiBold",
+  "whatfontis_page": "https://www.whatfontis.com/CF_ProtoMono-SemiBold.font",
+  "images": 20
+ },
+ {
+  "title": "PT Mono regular",
+  "family": "PT Mono regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_PT-Mono-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_PT-Mono-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Chainprinter Regular",
+  "family": "Chainprinter Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": true,
+  "url": "ADBE_Chainprinter-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Chainprinter-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Smith-Corona EC1100 Prestige",
+  "family": "Smith-Corona EC1100 Prestige",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_Smith-Corona-EC1100-Prestige",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Smith-Corona-EC1100-Prestige.font",
+  "images": 20
+ },
+ {
+  "title": "Azeret Mono Regular",
+  "family": "Azeret Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Azeret-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Azeret-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Lexia Mono Regular",
+  "family": "Lexia Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Lexia-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Lexia-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "IBM Selectric Bookface Regular",
+  "family": "IBM Selectric Bookface Regular",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_IBM-Selectric-Bookface-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_IBM-Selectric-Bookface-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Nanum Gothic Coding regular",
+  "family": "Nanum Gothic Coding regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Nanum-Gothic-Coding-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Nanum-Gothic-Coding-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Orator Std Medium",
+  "family": "Orator Std Medium",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": true,
+  "url": "ADBE_Orator-Std-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Orator-Std-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "SCM Galaxie XII",
+  "family": "SCM Galaxie XII",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_SCM-Galaxie-XII",
+  "whatfontis_page": "https://www.whatfontis.com/CF_SCM-Galaxie-XII.font",
+  "images": 20
+ },
+ {
+  "title": "Anonymous Pro regular",
+  "family": "Anonymous Pro regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Anonymous-Pro-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Anonymous-Pro-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Ubuntu Mono Regular",
+  "family": "Ubuntu Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Ubuntu-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Ubuntu-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Consulate",
+  "family": "Consulate",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_Consulate",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Consulate.font",
+  "images": 20
+ },
+ {
+  "title": "Cutive Mono regular",
+  "family": "Cutive Mono regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Cutive-Mono-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Cutive-Mono-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Aglet Mono Regular",
+  "family": "Aglet Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Aglet-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Aglet-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "CygnitoMonoPro-RAlt",
+  "family": "CygnitoMonoPro-RAlt",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_CygnitoMonoPro-RAlt",
+  "whatfontis_page": "https://www.whatfontis.com/CF_CygnitoMonoPro-RAlt.font",
+  "images": 20
+ },
+ {
+  "title": "B612 Mono regular",
+  "family": "B612 Mono regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_B612-Mono-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_B612-Mono-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Nuvo Mono Pro Regular",
+  "family": "Nuvo Mono Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Nuvo-Mono-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Nuvo-Mono-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Selectric Adjutant Regular",
+  "family": "Selectric Adjutant Regular",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_Selectric-Adjutant-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Selectric-Adjutant-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Space Mono regular",
+  "family": "Space Mono regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Space-Mono-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Space-Mono-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Attribute Mono Regular",
+  "family": "Attribute Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Attribute-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Attribute-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Monos Regular",
+  "family": "Monos Regular",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_Monos-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Monos-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Fragment Mono Regular",
+  "family": "Fragment Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Fragment-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Fragment-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Nexus Typewriter Pro Regular",
+  "family": "Nexus Typewriter Pro Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Nexus-Typewriter-Pro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Nexus-Typewriter-Pro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Platde Mono",
+  "family": "Platde Mono",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": true,
+  "url": "CF_Platde-Mono",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Platde-Mono.font",
+  "images": 20
+ },
+ {
+  "title": "Sometype Mono 500",
+  "family": "Sometype Mono 500",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Sometype-Mono-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Sometype-Mono-500.font",
+  "images": 20
+ },
+ {
+  "title": "LFT Etica Mono Regular",
+  "family": "LFT Etica Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_LFT-Etica-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_LFT-Etica-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Mono 91-C",
+  "family": "Mono 91-C",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_Mono-91-C",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Mono-91-C.font",
+  "images": 20
+ },
+ {
+  "title": "Nova Mono regular",
+  "family": "Nova Mono regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Nova-Mono-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Nova-Mono-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Ballinger Mono Regular",
+  "family": "Ballinger Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Ballinger-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Ballinger-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Monomod",
+  "family": "Monomod",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_Monomod",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Monomod.font",
+  "images": 20
+ },
+ {
+  "title": "Martian Mono Regular",
+  "family": "Martian Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Martian-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Martian-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Dico Mono Slab Regular",
+  "family": "Dico Mono Slab Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Dico-Mono-Slab-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Dico-Mono-Slab-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Livemono-Regular",
+  "family": "Livemono-Regular",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_Livemono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_Livemono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Spline Sans Mono Regular",
+  "family": "Spline Sans Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Spline-Sans-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Spline-Sans-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Dico Typewriter Slab",
+  "family": "Dico Typewriter Slab",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Dico-Typewriter-Slab",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Dico-Typewriter-Slab.font",
+  "images": 20
+ },
+ {
+  "title": "TRT Terminal Mono Light",
+  "family": "TRT Terminal Mono Light",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_TRT-Terminal-Mono-Light",
+  "whatfontis_page": "https://www.whatfontis.com/CF_TRT-Terminal-Mono-Light.font",
+  "images": 20
+ },
+ {
+  "title": "Share Tech Mono regular",
+  "family": "Share Tech Mono regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Share-Tech-Mono-regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Share-Tech-Mono-regular.font",
+  "images": 20
+ },
+ {
+  "title": "Nitti Typewriter Normal",
+  "family": "Nitti Typewriter Normal",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Nitti-Typewriter-Normal",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Nitti-Typewriter-Normal.font",
+  "images": 20
+ },
+ {
+  "title": "GC Beluga Mono Regular",
+  "family": "GC Beluga Mono Regular",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_GC-Beluga-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/CF_GC-Beluga-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "M PLUS 1 Code Regular",
+  "family": "M PLUS 1 Code Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_M-PLUS-1-Code-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_M-PLUS-1-Code-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Essential PragmataPro Regular",
+  "family": "Essential PragmataPro Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Essential-PragmataPro-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Essential-PragmataPro-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "GC Basic Inktrap Monospace Med",
+  "family": "GC Basic Inktrap Monospace Med",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_GC-Basic-Inktrap-Monospace-Med",
+  "whatfontis_page": "https://www.whatfontis.com/CF_GC-Basic-Inktrap-Monospace-Med.font",
+  "images": 20
+ },
+ {
+  "title": "Syne Mono Regular",
+  "family": "Syne Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Syne-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Syne-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Botanika Mono Regular",
+  "family": "Botanika Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Botanika-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Botanika-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "GC Basic Inktrap Monospace Lt",
+  "family": "GC Basic Inktrap Monospace Lt",
+  "source": "Creative Fabrica",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "CF_GC-Basic-Inktrap-Monospace-Lt",
+  "whatfontis_page": "https://www.whatfontis.com/CF_GC-Basic-Inktrap-Monospace-Lt.font",
+  "images": 20
+ },
+ {
+  "title": "Xanh Mono Regular",
+  "family": "Xanh Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Xanh-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Xanh-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Auger Mono Regular",
+  "family": "Auger Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Auger-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Auger-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Victor Mono 500",
+  "family": "Victor Mono 500",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Victor-Mono-500",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Victor-Mono-500.font",
+  "images": 20
+ },
+ {
+  "title": "Gemeli Mono Regular",
+  "family": "Gemeli Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Gemeli-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Gemeli-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Kode Mono Regular",
+  "family": "Kode Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Kode-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Kode-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Prestige Elite Std Regular",
+  "family": "Prestige Elite Std Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Prestige-Elite-Std-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Prestige-Elite-Std-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Google Sans Code Regular",
+  "family": "Google Sans Code Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Google-Sans-Code-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Google-Sans-Code-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Ballinger Mono X Light",
+  "family": "Ballinger Mono X Light",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Ballinger-Mono-X-Light",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Ballinger-Mono-X-Light.font",
+  "images": 20
+ },
+ {
+  "title": "Orbit Regular",
+  "family": "Orbit Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Orbit-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Orbit-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Letter Gothic Std Medium",
+  "family": "Letter Gothic Std Medium",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Letter-Gothic-Std-Medium",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Letter-Gothic-Std-Medium.font",
+  "images": 20
+ },
+ {
+  "title": "Geist Mono Regular",
+  "family": "Geist Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Geist-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Geist-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Heimat Mono Regular",
+  "family": "Heimat Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Heimat-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Heimat-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Atkinson Hyperlegible Mono Regular",
+  "family": "Atkinson Hyperlegible Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Atkinson-Hyperlegible-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Atkinson-Hyperlegible-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Cake Mono Regular",
+  "family": "Cake Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Cake-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Cake-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Cascadia Code Regular",
+  "family": "Cascadia Code Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Cascadia-Code-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Cascadia-Code-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Divenire Mono Regular",
+  "family": "Divenire Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Divenire-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Divenire-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Libertinus Mono Regular",
+  "family": "Libertinus Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Libertinus-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Libertinus-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "New Science Mono Regular",
+  "family": "New Science Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_New-Science-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_New-Science-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Intel One Mono Regular",
+  "family": "Intel One Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Intel-One-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Intel-One-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "TT Autonomous Mono Regular",
+  "family": "TT Autonomous Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_TT-Autonomous-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_TT-Autonomous-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Iosevka Charon Mono Regular",
+  "family": "Iosevka Charon Mono Regular",
+  "source": "Google Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "GOOGLE_Iosevka-Charon-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/GOOGLE_Iosevka-Charon-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Base Mono Narrow OT Reg",
+  "family": "Base Mono Narrow OT Reg",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Base-Mono-Narrow-OT-Reg",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Base-Mono-Narrow-OT-Reg.font",
+  "images": 20
+ },
+ {
+  "title": "ParadroidMono Soft Regular",
+  "family": "ParadroidMono Soft Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_ParadroidMono-Soft-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_ParadroidMono-Soft-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Novel Mono Pro Cmp Regular",
+  "family": "Novel Mono Pro Cmp Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Novel-Mono-Pro-Cmp-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Novel-Mono-Pro-Cmp-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Input Mono Regular",
+  "family": "Input Mono Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Input-Mono-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Input-Mono-Regular.font",
+  "images": 20
+ },
+ {
+  "title": "Larabiefont Bold",
+  "family": "Larabiefont Bold",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_Larabiefont-Bold",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_Larabiefont-Bold.font",
+  "images": 20
+ },
+ {
+  "title": "AdaptiveMono OT Regular",
+  "family": "AdaptiveMono OT Regular",
+  "source": "Adobe Fonts",
+  "category": "Monospaced",
+  "caps_only": false,
+  "url": "ADBE_AdaptiveMono-OT-Regular",
+  "whatfontis_page": "https://www.whatfontis.com/ADBE_AdaptiveMono-OT-Regular.font",
+  "images": 20
+ }
+]

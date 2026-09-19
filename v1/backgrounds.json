@@ -1,0 +1,1293 @@
+[
+ {
+  "id": "Cardboard001",
+  "kind": "texture (cardboard)",
+  "source": "ambientCG",
+  "page": "https://ambientcg.com/view?id=Cardboard001",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "Cardboard003",
+  "kind": "texture (cardboard)",
+  "source": "ambientCG",
+  "page": "https://ambientcg.com/view?id=Cardboard003",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "Paper001",
+  "kind": "texture (paper)",
+  "source": "ambientCG",
+  "page": "https://ambientcg.com/view?id=Paper001",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "Paper003",
+  "kind": "texture (paper)",
+  "source": "ambientCG",
+  "page": "https://ambientcg.com/view?id=Paper003",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "Paper005",
+  "kind": "texture (paper)",
+  "source": "ambientCG",
+  "page": "https://ambientcg.com/view?id=Paper005",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "beige_wall_001",
+  "kind": "texture (wall)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/beige_wall_001",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "blue_metal_plate",
+  "kind": "texture (metal)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/blue_metal_plate",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "blue_plaster_weathered",
+  "kind": "texture (wall)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/blue_plaster_weathered",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "brown_leather",
+  "kind": "texture (leather)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/brown_leather",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "brown_planks_03",
+  "kind": "texture (wood)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/brown_planks_03",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "brushed_concrete_04",
+  "kind": "texture (concrete)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/brushed_concrete_04",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "concrete",
+  "kind": "texture (concrete)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/concrete",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "concrete_wall_003",
+  "kind": "texture (concrete)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/concrete_wall_003",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "concrete_wall_008",
+  "kind": "texture (concrete)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/concrete_wall_008",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "container_side",
+  "kind": "texture (metal)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/container_side",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "corrugated_iron_02",
+  "kind": "texture (metal)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/corrugated_iron_02",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "cotton_jersey",
+  "kind": "texture (fabric)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/cotton_jersey",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "dark_wood",
+  "kind": "texture (wood)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/dark_wood",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "denim_fabric",
+  "kind": "texture (fabric)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/denim_fabric",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "hessian_230",
+  "kind": "texture (fabric)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/hessian_230",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "kitchen_wood",
+  "kind": "texture (wood)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/kitchen_wood",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "leather_white",
+  "kind": "texture (leather)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/leather_white",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "metal_plate_02",
+  "kind": "texture (metal)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/metal_plate_02",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "painted_brick",
+  "kind": "texture (brick)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/painted_brick",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "painted_metal_shutter",
+  "kind": "texture (metal)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/painted_metal_shutter",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "painted_plaster_wall",
+  "kind": "texture (wall)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/painted_plaster_wall",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "plaster_grey_04",
+  "kind": "texture (wall)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/plaster_grey_04",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "plastered_wall_02",
+  "kind": "texture (wall)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/plastered_wall_02",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "plywood",
+  "kind": "texture (wood)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/plywood",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "red_plaster_weathered",
+  "kind": "texture (wall)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/red_plaster_weathered",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "rough_concrete",
+  "kind": "texture (concrete)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/rough_concrete",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "rough_linen",
+  "kind": "texture (fabric)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/rough_linen",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "rusty_painted_metal",
+  "kind": "texture (metal)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/rusty_painted_metal",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0000.jpg",
+  "kind": "photo",
+  "title": "Brick Wall To Smythes Almhouses Numbers 79 To 85",
+  "author": "Peter Broster",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=104644730",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0005.jpg",
+  "kind": "photo",
+  "title": "Joel Lane House Facade",
+  "author": "Mzedp",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=178841511",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0010.jpg",
+  "kind": "photo",
+  "title": "Tension Fabric Building - Multiple Garage Doors",
+  "author": "Vincedouville",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=173237065",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0012.jpg",
+  "kind": "photo",
+  "title": "File:Ancient roman burnt window shutters Herculaneum.jpg",
+  "author": "Jebulon",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=45465157",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0013.jpg",
+  "kind": "photo",
+  "title": "Interior wall finish",
+  "author": "Krisneo",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=188545891",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0017.jpg",
+  "kind": "photo",
+  "title": "Hijo De Su Madre (restaurant), interior",
+  "author": "Alexis Doine",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=152942394",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0018.jpg",
+  "kind": "photo",
+  "title": "EEOB hallway",
+  "author": "Dreamyshade",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=47403108",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0019.jpg",
+  "kind": "photo",
+  "title": "Lachin corridor (checkpoint) - 8",
+  "author": "Benoît Prieur",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=61869752",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0021.jpg",
+  "kind": "photo",
+  "title": "Chris Wash US Appraiser warehouse jeh",
+  "author": "Jim.henderson",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=10560903",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0024.jpg",
+  "kind": "photo",
+  "title": "Animation filming machine desk top 2023-09-14",
+  "author": "Asanagi",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=137986759",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0027.jpg",
+  "kind": "photo",
+  "title": "Beaver Street Wall - San Francisco, CA - 5",
+  "author": "Daderot",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=144172644",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0028.jpg",
+  "kind": "photo",
+  "title": "Dubki park Parsin alley",
+  "author": "Alexander Roumega",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=104341885",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0041.jpg",
+  "kind": "photo",
+  "title": "James Purdey & Sons Audley House facade",
+  "author": "This images belong to James Purdey & Sons LTD",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=151407196",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0044.jpg",
+  "kind": "photo",
+  "title": "Wooden door of Qansuh al-Ghawri portal at entrance of Mosque and Mausoleum of Imam al-Layth ibn Sa'd",
+  "author": "Qambins2302",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=156145092",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0045.jpg",
+  "kind": "photo",
+  "title": "Lok Ma Chau Police Station Front Door",
+  "author": "Hihipk",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=177889182",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0046.jpg",
+  "kind": "photo",
+  "title": "Charming Green Garage Doors",
+  "author": "Reyeyi26",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=163730341",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0047.jpg",
+  "kind": "photo",
+  "title": "Old Vicksburg Courthouse - interior 2023 - Metal Door",
+  "author": "Dawn Woolcott",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=137411567",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0049.jpg",
+  "kind": "photo",
+  "title": "Interior Wall American College Sacristy",
+  "author": "Broerbert",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=182278923",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0054.jpg",
+  "kind": "photo",
+  "title": "Latomia1933 east building hallway",
+  "author": "Pinar Kutal Akar",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=162480909",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0056.jpg",
+  "kind": "photo",
+  "title": "Living room, Lady H. Montagu Allan's house, Ravenscrag, Montreal, QC, 1911.ii185093",
+  "author": "William Notman & Son, 1911.",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=174261179",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0061.jpg",
+  "kind": "photo",
+  "title": "FAP 2640 heavy duty truck three-axle. side view. Spielvogel 2012",
+  "author": "For a gallery of some more of my uploaded pictures see: here.",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=33070831",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0062.jpg",
+  "kind": "photo",
+  "title": "Beaver Street Wall - San Francisco, CA - 4",
+  "author": "Daderot",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=144172591",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0075.jpg",
+  "kind": "photo",
+  "title": "House facade in Île d'Orléans, Quebec city, Quebec, Canada202204-23",
+  "author": "Wilfredo Rafael Rodriguez Hernandez",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=125416700",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0079.jpg",
+  "kind": "photo",
+  "title": "Garage Door Dark Walls (Unsplash)",
+  "author": "Kari Shea karishea",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=62126630",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0087.jpg",
+  "kind": "photo",
+  "title": "Latomia1933 east building hallway entrance",
+  "author": "Pinar Kutal Akar",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=162480903",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0089.jpg",
+  "kind": "photo",
+  "title": "Living room in Showa era 2024-12-22",
+  "author": "Asanagi",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=160457998",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0090.jpg",
+  "kind": "photo",
+  "title": "Raw leather Warehouse Wilmington DE",
+  "author": "Smallbones",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=26600228",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0095.jpg",
+  "kind": "photo",
+  "title": "Beaver Street Wall - San Francisco, CA - 1",
+  "author": "Daderot",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=144172356",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0098.jpg",
+  "kind": "photo",
+  "title": "Kabli, bakery and store (Kabli Pagar)",
+  "author": "Sanqui",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=153236847",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0100.jpg",
+  "kind": "photo",
+  "title": "Great Mosque of Xi'an - wall of the prayer room - wooden walls",
+  "author": "Green flying penguin",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=175786543",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0102.jpg",
+  "kind": "photo",
+  "title": "Lewisberry abandoned church York Co PA",
+  "author": "Smallbones",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=40456325",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0105.jpg",
+  "kind": "photo",
+  "title": "Khirbet Qeiyafa view of Tel Azeka",
+  "author": "Wilson44691",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=32151731",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0113.jpg",
+  "kind": "photo",
+  "title": "Three wheels front door",
+  "author": "Myself",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=175242602",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0114.jpg",
+  "kind": "photo",
+  "title": "Fulton Co District Court Needmore PA",
+  "author": "Smallbones",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=42616864",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0118.jpg",
+  "kind": "photo",
+  "title": "Moscow - Bersenevskaya Emb 6s3 - Einem factory office interiors - 2026-02 - p01",
+  "author": "Александр Сигачёв",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=183998420",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0119.jpg",
+  "kind": "photo",
+  "title": "File:160Perez Ancestral House Bustos 03.jpg",
+  "author": "Judgefloro",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=64042745",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0121.jpg",
+  "kind": "photo",
+  "title": "Disney’s Contemporary Liminal Hallway",
+  "author": "KyleSirTalksAlot",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=178822287",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0122.jpg",
+  "kind": "photo",
+  "title": "Lachin corridor (checkpoint) - 2",
+  "author": "Benoît Prieur",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=61869641",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0127.jpg",
+  "kind": "photo",
+  "title": "Blue and grey shipping containers",
+  "author": "1250metersdeep",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=161663621",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0132.jpg",
+  "kind": "photo",
+  "title": "Whitehouse's Bakery, Laidley, Queensland (2)",
+  "author": "Shiftchange",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=41338646",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0134.jpg",
+  "kind": "photo",
+  "title": "Traditional Temuan wooden wall",
+  "author": "Pakbelang",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=157879600",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0136.jpg",
+  "kind": "photo",
+  "title": "Flatirons Community Church east entrance and facade, Lafayette, Colorado, USA - 2025",
+  "author": "Mikepascoe",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=176702605",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0141.jpg",
+  "kind": "photo",
+  "title": "Alfred and Olive Thorpe Lustron House--facade",
+  "author": "MrBill3",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=90213652",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0145.jpg",
+  "kind": "photo",
+  "title": "Former Storehouse of Incheon Customs Office, front door, 2019-05-11",
+  "author": "PuzzletChung",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=79004252",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0149.jpg",
+  "kind": "photo",
+  "title": "Juankoski Church, interior wall",
+  "author": "Niera",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=176134895",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0153.jpg",
+  "kind": "photo",
+  "title": "UIUC Library Hallway",
+  "author": "Chevsapher",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=103327460",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0155.jpg",
+  "kind": "photo",
+  "title": "Kitchen and Living Room, Dr. Charles and Judith Heidelberger House, 1952",
+  "author": "Dheidelberger1",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=84499637",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0164.jpg",
+  "kind": "photo",
+  "title": "Swoboda Bakery Omaha from S 1",
+  "author": "Ammodramus",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=18857734",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0165.jpg",
+  "kind": "photo",
+  "title": "Blue Wooden Wall (Unsplash)",
+  "author": "Math builtbymath",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=61720115",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0169.jpg",
+  "kind": "photo",
+  "title": "0010822 Deokirari Dhumnath temple, Kirari Godhi, Chhattisgarh 011",
+  "author": "Ms Sarah Welch",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=131502179",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0176.jpg",
+  "kind": "photo",
+  "title": "Embassy of Morocco in Washington, D.C. front door",
+  "author": "Kurt Kaiser",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=88210455",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0183.jpg",
+  "kind": "photo",
+  "title": "Woodward hallway",
+  "author": "Rgg12345",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=153616856",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0186.jpg",
+  "kind": "photo",
+  "title": "Salt Lake Hardware Co Warehouse",
+  "author": "Ntsimp",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=35268064",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0191.jpg",
+  "kind": "photo",
+  "title": "Software Engineering Institute, Dithridge Street wall, 2021-11-09",
+  "author": "Cbaile19",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=112406119",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0194.jpg",
+  "kind": "photo",
+  "title": "Whitehouse's Bakery, Laidley, Queensland",
+  "author": "Shiftchange",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=41338649",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0195.jpg",
+  "kind": "photo",
+  "title": "File:Decorated Wooden Wall (Unsplash).jpg",
+  "author": "Jaime Spaniol jaimespaniol",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=62186502",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0199.jpg",
+  "kind": "photo",
+  "title": "Sod House NE",
+  "author": "Smallbones",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=15196833",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0201.jpg",
+  "kind": "photo",
+  "title": "House facade north of El retiro, Madrid",
+  "author": "Gerda Arendt",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=141295435",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0208.jpg",
+  "kind": "photo",
+  "title": "Beresford, South Dakota post office interior facing N 1",
+  "author": "Ammodramus",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=43877976",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0209.jpg",
+  "kind": "photo",
+  "title": "Rooster Oulu 20150713 01",
+  "author": "Estormiz",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=41562424",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0213.jpg",
+  "kind": "photo",
+  "title": "File:Fairview (WJBryan house) living room 2.JPG",
+  "author": "Ammodramus",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=22929053",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0214.jpg",
+  "kind": "photo",
+  "title": "Brown Warehouse Ft W IN",
+  "author": "Smallbones",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=15310493",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0219.jpg",
+  "kind": "photo",
+  "title": "Beaver Street Wall - San Francisco, CA - 3",
+  "author": "Daderot",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=144172514",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0226.jpg",
+  "kind": "photo",
+  "title": "SDSU dean residence rammed-earth wall, W end damage 1",
+  "author": "Ammodramus",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=62710109",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0232.jpg",
+  "kind": "photo",
+  "title": "Front Door, Smith-McDowell House, Asheville, NC (45827731665)",
+  "author": "Warren LeMay from Cincinnati, OH, United States",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=77931050",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0237.jpg",
+  "kind": "photo",
+  "title": "Hallway in the Morris Inn",
+  "author": "Swanyay",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=186508426",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0239.jpg",
+  "kind": "photo",
+  "title": "File:GM Barker Co Warehouse DC.jpg",
+  "author": "Smallbones",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=15960336",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0243.jpg",
+  "kind": "photo",
+  "title": "Beaver Street Wall - San Francisco, CA - 2",
+  "author": "Daderot",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=144172419",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0244.jpg",
+  "kind": "photo",
+  "title": "Liberties College, Bull Alley",
+  "author": "DubhEire",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=9833193",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0251.jpg",
+  "kind": "photo",
+  "title": "Empty storefronts inside The Shops at Willow Bend in Plano, Texas",
+  "author": "Jackilometresan",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=180922594",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0254.jpg",
+  "kind": "photo",
+  "title": "Original front door entrance",
+  "author": "Chrisdealy",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=190710917",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0260.jpg",
+  "kind": "photo",
+  "title": "Fountains Abbey Corridor",
+  "author": "Michael D Beckwith",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=50089969",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0276.jpg",
+  "kind": "photo",
+  "title": "Front door, Sarah Street, South Side, 2021-07-26, 02",
+  "author": "Cbaile19",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=107940491",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0279.jpg",
+  "kind": "photo",
+  "title": "La Junta, Colorado post office interior 1",
+  "author": "Ammodramus",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=18446675",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0283.jpg",
+  "kind": "photo",
+  "title": "Leather Warehouse (Former Barn Between Numbers 39 And 41)",
+  "author": "Simon Cobb",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=77534045",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0291.jpg",
+  "kind": "photo",
+  "title": "Tiled wall",
+  "author": "Mind Booster Noori",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=166501471",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0295.jpg",
+  "kind": "photo",
+  "title": "Oldenburg Schloßhöfe",
+  "author": "Anaconda74",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=19615363",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0303.jpg",
+  "kind": "photo",
+  "title": "Dyeworks And Attached Warehouse",
+  "author": "Simon Cobb",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=68849694",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0306.jpg",
+  "kind": "photo",
+  "title": "RO MS Str Revolutiei nr 45",
+  "author": "Whitepixels",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=85626776",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/photos/ov_0312.jpg",
+  "kind": "photo",
+  "title": "Alfred and Olive Thorpe Lustron House--facade angle",
+  "author": "MrBill3",
+  "source": "Wikimedia Commons (via Openverse)",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=90213676",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/autoshop_01_y060.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 60 deg, FOV 60 deg)",
+  "panorama": "autoshop_01",
+  "author": "Oliksiy Yakovlyev",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/autoshop_01",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/cayley_interior_y060.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 60 deg, FOV 60 deg)",
+  "panorama": "cayley_interior",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/cayley_interior",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/cayley_interior_y090.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 90 deg, FOV 60 deg)",
+  "panorama": "cayley_interior",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/cayley_interior",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/cayley_interior_y120.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 120 deg, FOV 60 deg)",
+  "panorama": "cayley_interior",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/cayley_interior",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/comfy_cafe_y120.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 120 deg, FOV 60 deg)",
+  "panorama": "comfy_cafe",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/comfy_cafe",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/comfy_cafe_y150.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 150 deg, FOV 60 deg)",
+  "panorama": "comfy_cafe",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/comfy_cafe",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/comfy_cafe_y180.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 180 deg, FOV 60 deg)",
+  "panorama": "comfy_cafe",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/comfy_cafe",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/comfy_cafe_y210.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 210 deg, FOV 60 deg)",
+  "panorama": "comfy_cafe",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/comfy_cafe",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/comfy_cafe_y240.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 240 deg, FOV 60 deg)",
+  "panorama": "comfy_cafe",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/comfy_cafe",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/decor_shop_y030.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 30 deg, FOV 60 deg)",
+  "panorama": "decor_shop",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/decor_shop",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/decor_shop_y150.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 150 deg, FOV 60 deg)",
+  "panorama": "decor_shop",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/decor_shop",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/empty_play_room_y150.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 150 deg, FOV 60 deg)",
+  "panorama": "empty_play_room",
+  "author": "Greg Zaal, Jarod Guest",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/empty_play_room",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/empty_play_room_y180.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 180 deg, FOV 60 deg)",
+  "panorama": "empty_play_room",
+  "author": "Greg Zaal, Jarod Guest",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/empty_play_room",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/empty_warehouse_01_y030.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 30 deg, FOV 60 deg)",
+  "panorama": "empty_warehouse_01",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/empty_warehouse_01",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/empty_warehouse_01_y060.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 60 deg, FOV 60 deg)",
+  "panorama": "empty_warehouse_01",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/empty_warehouse_01",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/empty_warehouse_01_y090.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 90 deg, FOV 60 deg)",
+  "panorama": "empty_warehouse_01",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/empty_warehouse_01",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/hotel_room_y240.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 240 deg, FOV 60 deg)",
+  "panorama": "hotel_room",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/hotel_room",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/large_corridor_y000.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 0 deg, FOV 60 deg)",
+  "panorama": "large_corridor",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/large_corridor",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/large_corridor_y060.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 60 deg, FOV 60 deg)",
+  "panorama": "large_corridor",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/large_corridor",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/large_corridor_y090.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 90 deg, FOV 60 deg)",
+  "panorama": "large_corridor",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/large_corridor",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/lythwood_room_y090.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 90 deg, FOV 60 deg)",
+  "panorama": "lythwood_room",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/lythwood_room",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/lythwood_room_y120.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 120 deg, FOV 60 deg)",
+  "panorama": "lythwood_room",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/lythwood_room",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/lythwood_room_y150.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 150 deg, FOV 60 deg)",
+  "panorama": "lythwood_room",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/lythwood_room",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/lythwood_room_y180.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 180 deg, FOV 60 deg)",
+  "panorama": "lythwood_room",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/lythwood_room",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/lythwood_room_y240.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 240 deg, FOV 60 deg)",
+  "panorama": "lythwood_room",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/lythwood_room",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/reading_room_y120.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 120 deg, FOV 60 deg)",
+  "panorama": "reading_room",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/reading_room",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/small_empty_room_3_y120.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 120 deg, FOV 60 deg)",
+  "panorama": "small_empty_room_3",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/small_empty_room_3",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/small_empty_room_3_y150.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 150 deg, FOV 60 deg)",
+  "panorama": "small_empty_room_3",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/small_empty_room_3",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/small_empty_room_3_y180.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 180 deg, FOV 60 deg)",
+  "panorama": "small_empty_room_3",
+  "author": "Sergej Majboroda",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/small_empty_room_3",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "scenes_src/views/wooden_lounge_y270.jpg",
+  "kind": "frontal view of a 360-degree panorama (yaw 270 deg, FOV 60 deg)",
+  "panorama": "wooden_lounge",
+  "author": "Greg Zaal",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/wooden_lounge",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "waffle_pique_cotton",
+  "kind": "texture (fabric)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/waffle_pique_cotton",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "weathered_plank_siding",
+  "kind": "texture (wood)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/weathered_plank_siding",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "white_bricks",
+  "kind": "texture (brick)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/white_bricks",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "white_planks_clean",
+  "kind": "texture (wood)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/white_planks_clean",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "white_rough_plaster",
+  "kind": "texture (wall)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/white_rough_plaster",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "white_stucco",
+  "kind": "texture (wall)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/white_stucco",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "whitewashed_brick",
+  "kind": "texture (brick)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/whitewashed_brick",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "wood_peeling_paint_weathered",
+  "kind": "texture (wood)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/wood_peeling_paint_weathered",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "wood_table_001",
+  "kind": "texture (wood)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/wood_table_001",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "yellow_plaster",
+  "kind": "texture (wall)",
+  "source": "Poly Haven",
+  "page": "https://polyhaven.com/a/yellow_plaster",
+  "license": "CC0 1.0"
+ }
+]
