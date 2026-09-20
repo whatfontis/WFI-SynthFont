@@ -8,7 +8,7 @@ Made by [WhatFontIs](https://www.whatfontis.com), the [font finder](https://www.
 fonts from images, to measure how well a tool can [find the font](https://www.whatfontis.com) in a real-looking
 photo.
 
-**Official page:** [whatfontis.com/synthfont.html](https://www.whatfontis.com/synthfont.html)
+**Official page:** [whatfontis.com/WFI-SynthFont.html](https://www.whatfontis.com/WFI-SynthFont.html)
 
 ## Versions
 
