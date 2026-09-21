@@ -10,6 +10,8 @@ photo.
 
 **Official page:** [whatfontis.com/WhatFontIs-Bench.html](https://www.whatfontis.com/WhatFontIs-Bench.html)
 
+**Paper:** A. Cuibari, *WhatFontIs-Bench: A Synthetic Benchmark for Font Family Identification in Real-Looking Images*, 2026. [doi:10.5281/zenodo.22876579](https://doi.org/10.5281/zenodo.22876579)
+
 ## Versions
 
 | Version | Fonts | Images | Data | Images download |
@@ -146,6 +148,18 @@ The background identifiers match the `id` field in `backgrounds.json`.
 - The scene images reuse a limited number of real scenes (each scene appears many times, with a different
   word, font, position and light).
 - Some fonts in the set are close look-alikes of other fonts that exist under different names.
+
+## Citation
+
+```bibtex
+@misc{cuibari2026whatfontisbench,
+  title  = {WhatFontIs-Bench: A Synthetic Benchmark for Font Family Identification in Real-Looking Images},
+  author = {Cuibari, Alexandru},
+  year   = {2026},
+  doi    = {10.5281/zenodo.22876579},
+  url    = {https://doi.org/10.5281/zenodo.22876579}
+}
+```
 
 ## Licenses and credits
 
