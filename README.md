@@ -1,4 +1,4 @@
-# WFI-SynthFont — A Synthetic Benchmark for Font Family Identification
+# WhatFontIs-Bench — A Synthetic Benchmark for Font Family Identification
 
 A synthetic test set for **font family identification**: a single word, set in a known font, printed or painted on real
 surfaces and in real scenes, with the exact font, the text and the position of every letter recorded for each
@@ -8,13 +8,13 @@ Made by [WhatFontIs](https://www.whatfontis.com), the [font finder](https://www.
 fonts from images, to measure how well a tool can [find the font](https://www.whatfontis.com) in a real-looking
 photo.
 
-**Official page:** [whatfontis.com/WFI-SynthFont.html](https://www.whatfontis.com/WFI-SynthFont.html)
+**Official page:** [whatfontis.com/WhatFontIs-Bench.html](https://www.whatfontis.com/WhatFontIs-Bench.html)
 
 ## Versions
 
 | Version | Fonts | Images | Data | Images download |
 |---|---|---|---|---|
-| **v1.0** | 600 | 11,995 | [`v1/`](v1) | [release v1.0](https://github.com/whatfontis/WFI-SynthFont/releases/tag/v1.0) |
+| **v1.0** | 600 | 11,995 | [`v1/`](v1) | [release v1.0](https://github.com/whatfontis/WhatFontIs-Bench/releases/tag/v1.0) |
 
 Each version is a separate folder and a separate release, so results on different versions are not mixed.
 The rest of this page describes **v1.0**.
@@ -79,17 +79,17 @@ letters were found count as misses.
 
 ## v1.0 download
 
-The images are in the release [**v1.0**](https://github.com/whatfontis/WFI-SynthFont/releases/tag/v1.0)
+The images are in the release [**v1.0**](https://github.com/whatfontis/WhatFontIs-Bench/releases/tag/v1.0)
 as four zip files (they are release downloads, not files in the repository):
 
 | File | Size | Images |
 |---|---|---|
-| [WFI-SynthFont_v1.0_images_part1.zip](https://github.com/whatfontis/WFI-SynthFont/releases/download/v1.0/WFI-SynthFont_v1.0_images_part1.zip) | 466 MB | 00000–02998 |
-| [WFI-SynthFont_v1.0_images_part2.zip](https://github.com/whatfontis/WFI-SynthFont/releases/download/v1.0/WFI-SynthFont_v1.0_images_part2.zip) | 470 MB | 02999–05997 |
-| [WFI-SynthFont_v1.0_images_part3.zip](https://github.com/whatfontis/WFI-SynthFont/releases/download/v1.0/WFI-SynthFont_v1.0_images_part3.zip) | 460 MB | 05998–08996 |
-| [WFI-SynthFont_v1.0_images_part4.zip](https://github.com/whatfontis/WFI-SynthFont/releases/download/v1.0/WFI-SynthFont_v1.0_images_part4.zip) | 604 MB | 08997–11994 |
+| [WhatFontIs-Bench_v1.0_images_part1.zip](https://github.com/whatfontis/WhatFontIs-Bench/releases/download/v1.0/WhatFontIs-Bench_v1.0_images_part1.zip) | 466 MB | 00000–02998 |
+| [WhatFontIs-Bench_v1.0_images_part2.zip](https://github.com/whatfontis/WhatFontIs-Bench/releases/download/v1.0/WhatFontIs-Bench_v1.0_images_part2.zip) | 470 MB | 02999–05997 |
+| [WhatFontIs-Bench_v1.0_images_part3.zip](https://github.com/whatfontis/WhatFontIs-Bench/releases/download/v1.0/WhatFontIs-Bench_v1.0_images_part3.zip) | 460 MB | 05998–08996 |
+| [WhatFontIs-Bench_v1.0_images_part4.zip](https://github.com/whatfontis/WhatFontIs-Bench/releases/download/v1.0/WhatFontIs-Bench_v1.0_images_part4.zip) | 604 MB | 08997–11994 |
 
-With the GitHub CLI: `gh release download v1.0 --repo whatfontis/WFI-SynthFont`
+With the GitHub CLI: `gh release download v1.0 --repo whatfontis/WhatFontIs-Bench`
 
 Unzip all four into `v1/`; they create `v1/scenes/NNNNN.jpg`. To also get the text crops
 (the word cut out of each image, unscaled), run:
